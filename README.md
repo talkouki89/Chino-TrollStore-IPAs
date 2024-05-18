@@ -1,5 +1,6 @@
 # Chion-TrollStore-IPAs
 Chion-TrollStore-IPAs
+自用
 
  <p align="center">
     <a href="https://fwuf.in/#/trollapps://add?url=https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/apps.json">
