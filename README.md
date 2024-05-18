@@ -8,5 +8,5 @@ Chion-TrollStore-IPAs
 </p>
 
 Credit
-* [TrollStore-IPAs]([https://github.com/mon/BemaniPatcher/](https://github.com/swaggyP36000/TrollStore-IPAs)) - swaggyP36000
+* [TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs) - swaggyP36000
 
