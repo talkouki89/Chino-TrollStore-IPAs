@@ -160,7 +160,7 @@
     {
       "name": "TrollRecorder",
       "bundleIdentifier": "wiki.qaq.trapp",
-      "developerName": "Lessica / TrollRecorder",
+      "developerName": "Lessica",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
       "versions": [
         {
@@ -227,7 +227,7 @@
     {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
-      "developerName": "whoeevee / asdfzxcvbn / EeveeSpotify IPAs",
+      "developerName": "EeveeSpotify IPAs",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.spotify.client.png",
       "versions": [
         {
@@ -254,6 +254,21 @@
         }
       ]
     },
+    {
+      "name": "InstaMulti",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "zxcvbn's tweaked IPAs",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+      "versions": [
+        {
+          "version": "330.0.0",
+          "date": "2024-05-08",
+          "size": 158759722,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaMulti-330.0.0.ipa",
+          "localizedDescription": "注入InstaMultiTweak。\n最後更新時間: 05-08-2024\n狀態: \u26a0\ufe0f"
+        }
+      ]
+    },    
     {
       "name": "InfusePro",
       "bundleIdentifier": "com.firecore.infuse",
@@ -310,7 +325,7 @@
           "date": "2024-04-16",
           "size": 148421214,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaNyxBH-327.1.0-1.2.4.ipa",
-          "localizedDescription": "注射 Nyx 和 BH。\n最後更新時間: 04-16-2024\n狀態: \u26a0\ufe0f"
+          "localizedDescription": "注入 Nyx 和 BH。\n最後更新時間: 04-16-2024\n狀態: \u26a0\ufe0f"
         }
       ]
     },
