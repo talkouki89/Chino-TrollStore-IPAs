@@ -130,9 +130,16 @@
     {
       "name": "Goodnotes6",
       "bundleIdentifier": "com.goodnotesapp.x",
-      "developerName": "ipalibrary.me / riadipa / L\u00e3ng Kh\u00e1ch\ud83c\uddfb\ud83c\uddf3",
+      "developerName": "MaxiTech | IPAs ",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
       "versions": [
+        {
+          "version": "6.3.27",
+          "date": "2024-05-19",
+          "size": 330603810,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/Goodnotes6-v6.3.27.ipa",
+          "localizedDescription": "注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+        },      
         {
           "version": "6.3.25",
           "date": "2024-05-15",
@@ -145,9 +152,16 @@
     {
       "name": "VSCOPremium",
       "bundleIdentifier": "co.visualsupply.cam",
-      "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+      "developerName": "MaxiTech | IPAs ",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
       "versions": [
+        {
+          "version": "374.0.0",
+          "date": "2024-05-18",
+          "size": 120720612,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/VSCO-v374.0.0.ipa",
+          "localizedDescription": "VSCO 已解鎖高級功能。 注意：透過 TrollStore 安裝，然後透過 AppStore 重新安裝，或從 App Store 安裝，然後繼續強制安裝 TrollStore 版本。 此過程（可能）使調整保持有效，並應解決任何下載問題。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+        },        
         {
           "version": "373.0.0",
           "date": "2024-05-15",
