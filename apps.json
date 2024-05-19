@@ -17,7 +17,7 @@
           "version": "19.19.7",
           "date": "2024-05-17",
           "size": 108096009,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/YTLitePlus-19.19.7.ipa",
+          "downloadURL": "https://dl.getdropbox.com/scl/fi/zq0ciyjm1jsm04fxfvb71/YTLitePlus-19.19.7.ipa?rlkey=n8kztlok50q855pt2uliopt0v&st=a4nl4mzl&dl=0",
           "localizedDescription": "採用 YTLite（由 @dayanch96 提供）和 20多項Tweak\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
         }
       ]
@@ -32,7 +32,7 @@
           "version": "19.19.7",
           "date": "2024-05-17",
           "size": 123856462,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/uYouEnhanced-19.19.7.ipa",
+          "downloadURL": "https://dl.getdropbox.com/scl/fi/kzynsckq7mqaaubdkriot/uYouEnhanced-19.19.7.ipa?rlkey=z6gzzn9k4to77g9rppmhjbhdn&st=odzqgovb&dl=0",
           "localizedDescription": "uYouEnhanced是uYou+（由@qnblackcat製作）的擴展版本，具有附加功能，主要為非越獄用戶製作！\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
         }
       ]
@@ -47,7 +47,7 @@
           "version": "6.51.0",
           "date": "2024-05-17",
           "size": 73672519,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/YTMusicUltimate-6.51.ipa",
+          "downloadURL": "https://dl.getdropbox.com/scl/fi/ojbf15crq57k00kl567ym/YTMusicUltimate-6.51.ipa?rlkey=khd4y72slripei1agc4zgio3w&st=jsypiiyy&dl=0",
           "localizedDescription": "無限暢聽， 可從外掛程式設定去廣告，後台播放，顯示播放速度按鈕，複製歌詞，主題設置，導覽列設定等。\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
         }
       ]
@@ -378,7 +378,7 @@
           "date": "2024-03-27",
           "size": 98391105,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TruecallerPremium-12.86.5.ipa",
-          "localizedDescription": "限 TrollStore。 黃金會員破解，（需要更多測試）。 教學：先從 App Store 安裝 TrueCaller，然後按照螢幕上提供的所有說明進行操作。 完成此操作後，繼續強制安裝 TrollStore 版本。 （無需卸載原應用）\n最後更新時間: 03-27-2024\n狀態: \u2754 \u2b50"
+          "localizedDescription": "限TrollStore。 黃金會員破解，（需要更多測試）。 教學：先從 App Store 安裝 TrueCaller，然後按照螢幕上提供的所有說明進行操作。 完成此操作後，繼續強制安裝 TrollStore 版本。 （無需卸載原應用）\n最後更新時間: 03-27-2024\n狀態: \u2754 \u2b50"
         }
       ]
     },
@@ -397,6 +397,36 @@
         }
       ]
     },
+    {
+      "name": "SwiftTop",
+      "bundleIdentifier": "ca.bomberfish.SwiftTop",
+      "developerName": "BomberFish",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/ca.bomberfish.SwiftTop.png",
+      "versions": [
+        {
+          "version": "0.5",
+          "date": "2024-03-11",
+          "size": 5959886,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/SwiftTop-0.5.tipa",
+          "localizedDescription": "限TrollStore。利用Swift重寫的檢視進程AppCommander與CoCoaTop的結合體\n最後更新時間: 03-11-2024\n狀態: \u2705"
+        }
+      ]
+    }, 
+    {
+      "name": "Reveil",
+      "bundleIdentifier": "com.reveil.app",
+      "developerName": "Lessica",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.reveil.app.png",
+      "versions": [
+        {
+          "version": "2.0.6",
+          "date": "2024-03-07",
+          "size": 1618997,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/Reveil-2.0.6.tipa",
+          "localizedDescription": "限TrollStore。先進的安全分析，各種視覺化資訊面板。\n最後更新時間: 03-07-2024\n狀態: \u2705"
+        }
+      ]
+    },         
     {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
