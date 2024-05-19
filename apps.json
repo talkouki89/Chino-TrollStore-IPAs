@@ -194,7 +194,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/tv.twitch.png",
       "versions": [
         {
-          "version": "19.4-0.1.1",
+          "version": "19.4",
           "date": "2024-05-12",
           "size": 82744617,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TwitchPlus-19.4-0.1.1.ipa",
@@ -202,6 +202,28 @@
         }
       ]
     },
+    {
+      "name": "LINE-K2ge3-TrollStore-v1.0.5",
+      "bundleIdentifier": "jp.naver.line",
+      "developerName": "m4fn3",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/jp.naver.line.png",
+      "versions": [      
+        {
+          "version": "14.6.3",
+          "date": "2024-05-11",
+          "size": 127910091,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/LINE-14.6.3+v1.0.5.ipa",
+          "localizedDescription": "(需內部購買授權碼)增強 LINE 功能！顯示已讀用戶、顯示收回訊息、不會顯示已讀、移除廣告..etc\n最後更新時間: 05-11-2024\n狀態: \u2705"
+        },
+        {
+          "version": "13.5.1",
+          "date": "2024-05-11",
+          "size": 118652414,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/LINE-13.5.1+v1.0.5.ipa",
+          "localizedDescription": "(需內部購買授權碼)增強 LINE 功能！顯示已讀用戶、顯示收回訊息、不會顯示已讀、移除廣告..etc\n最後更新時間: 05-11-2024\n狀態: \u2705"
+        }        
+      ]
+    },    
     {
       "name": "EeveeSpotify",
       "bundleIdentifier": "com.spotify.client",
