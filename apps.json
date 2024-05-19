@@ -614,7 +614,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
       "versions": [
         {
-          "version": "4.0.0-NoUrlScheme",
+          "version": "4.0",
           "date": "2024-01-03",
           "size": 13912275,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/Filza-4.0.0-NoUrlScheme.ipa",
@@ -629,7 +629,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/org.resonance.store.png",
       "versions": [
         {
-          "version": "2.3b-Hotfix3",
+          "version": "2.3b",
           "date": "2023-12-29",
           "size": 5533915,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollApps-2.3b-Hotfix3.ipa",
@@ -758,6 +758,36 @@
       ]
     },
     {
+      "name": "FTPManager Pro",
+      "bundleIdentifier": "com.skyjos.ftpmanager",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.skyjos.ftpmanager.png",
+      "versions": [
+        {
+          "version": "9.3.1-9.44",
+          "date": "2023-07-30",
+          "size": 25023076,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/FTPManager_Pro_8.3.ipa",
+          "localizedDescription": "FTPManager Pro 砸殼\n最後更新時間: 07-30-2023\n狀態: \u26a0\ufe0f"
+        }
+      ]
+    },    
+    {
+      "name": "RingTonesManager",
+      "bundleIdentifier": "com.netskao.ringtonesmanager",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.netskao.ringtonesmanager.png",
+      "versions": [
+        {
+          "version": "1.1-4",
+          "date": "2023-05-12",
+          "size": 6998429,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/RingTonesManager-1.1-4.tipa",
+          "localizedDescription": "限 TrollStore。 解除 iPhone 鈴聲 30 秒限制，支援一鍵導入系統鈴聲。\n最後更新時間: 05-12-2023\n狀態: \u26a0\ufe0f"
+        }
+      ]
+    },    
+    {
       "name": "BHTwitter14",
       "bundleIdentifier": "com.atebits.Tweetie2",
       "developerName": "N/A",
@@ -817,6 +847,21 @@
         }
       ]
     },
+    {
+      "name": "PostBox",
+      "bundleIdentifier": "com.simplycode.PostBox",
+      "developerName": "N/A",
+      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.simplycode.PostBox.png",
+      "versions": [
+        {
+          "version": "0.8.1",
+          "date": "2022-11-15",
+          "size": 8499905,
+          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/PostBox_0.8.1_beta.ipa",
+          "localizedDescription": "可讓您瀏覽/新增儲存庫並下載Tweak以使用所需的套件管理器進行安裝\n最後更新時間: 11-15-2022\n狀態: \u26a0\ufe0f"
+        }
+      ]
+    },    
     {
       "name": "AppStorePlusPlus",
       "bundleIdentifier": "com.cokepokes.AppStorePlus",
