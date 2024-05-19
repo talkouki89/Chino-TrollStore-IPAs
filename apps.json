@@ -44,7 +44,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
       "versions": [
         {
-          "version": "6.51",
+          "version": "6.51.0",
           "date": "2024-05-17",
           "size": 73672519,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/YTMusicUltimate-6.51.ipa",
@@ -149,7 +149,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
       "versions": [
         {
-          "version": "373.0",
+          "version": "373.0.0",
           "date": "2024-05-15",
           "size": 121616504,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/VSCOPremium-373.0.ipa",
@@ -681,21 +681,6 @@
           "localizedDescription": "限 TrollStore。 解除 iPhone 鈴聲 30 秒限制，支援一鍵導入系統鈴聲。\n最後更新時間: 05-12-2023\n狀態: \u2705"
         }
       ]
-    },    
-    {
-      "name": "BHTwitter14",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
-      "versions": [
-        {
-          "version": "9.3.1-9.44",
-          "date": "2023-03-14",
-          "size": 97584303,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/BHTwitter14-9.3.1-9.44.ipa",
-          "localizedDescription": "對於 BHTwitter 的最新 iOS 14 相容版本，請從 2023 年 2 月 14 日版本中取得。 或者，使用此版本 - 針對 iOS 14 用戶將較新的 BHTwitter 注入 Twitter v9.44\n最後更新時間: 03-14-2023\n狀態: \u26a0\ufe0f"
-        }
-      ]
     },
     {
       "name": "StatusMagic",
@@ -734,11 +719,11 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
       "versions": [
         {
-          "version": "1.0",
-          "date": "2023-12-27",
-          "size": 1592733,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollTools.ipa",
-          "localizedDescription": "Mugunghwa替代品。 如果另一個給您帶來問題，請使用此選項，反之亦然\n最後更新時間: 01-04-2023\n狀態: \u2705"
+          "version": "3.0",
+          "date": "2023-01-05",
+          "size": 4372418,
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollTools-3.0.tipa",
+          "localizedDescription": "Mugunghwa替代品。 如果另一個給您帶來問題，請使用此選項，反之亦然\n最後更新時間: 01-05-2023\n狀態: \u2705"
         }
       ]
     },
