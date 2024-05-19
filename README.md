@@ -9,7 +9,7 @@ Chion-TrollStore-IPAs
 </p>
 
 ## 公告
-GitHub針對Repository中經過修改的 YouTubeAPP發出了DMCA通知，請添加Repo來進行安裝。
+GitHub針對Repository中經過修改的YouTubeAPP發出了DMCA通知，請添加repo來進行安裝。
 
 ## 應用選擇表情符號指南（狀態）
 在此存儲庫中，您將找到可用於類似目的的各種應用程式和調整。為了幫助您選擇正確的應用程序，我添加了表情符號來指示每個應用程式的狀態：（可能會隨著時間的推移而改變。）
