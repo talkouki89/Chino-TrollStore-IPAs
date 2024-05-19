@@ -168,7 +168,7 @@
           "date": "2024-05-14",
           "size": 2378032,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.8.7-150.ipa",
-          "localizedDescription": "附 TrollStore 的高級錄音機。 基本功能免費提供，高級功能可透過購買解鎖\u20ac license.\n最後更新時間: 05-14-2024\n狀態: \u2705"
+          "localizedDescription": "附 TrollStore 的高級錄音機。 基本功能免費提供，高級功能可透過購買解鎖\n最後更新時間: 05-14-2024\n狀態: \u2705"
         }
       ]
     },
@@ -213,7 +213,7 @@
           "date": "2024-05-13",
           "size": 102429621,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/PicsArtPlusPlus-24.9.1.ipa",
-          "localizedDescription": "啟用了高級功能的 PicsArt。\n最後更新時間: 05-13-2024\n狀態: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "啟用了高級功能的 PicsArt。\n最後更新時間: 05-13-2024\n狀態: \u2705"
         }
       ]
     },
@@ -228,7 +228,7 @@
           "date": "2024-05-12",
           "size": 82744617,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TwitchPlus-19.4-0.1.1.ipa",
-          "localizedDescription": "Twitch Toolbox 的替代品，Twitch，無廣告。\n最後更新時間: 05-12-2024\n狀態: \u2705 \ud83d\udc4d \u2b50"
+          "localizedDescription": "Twitch Toolbox 的替代品，Twitch，無廣告。\n最後更新時間: 05-12-2024\n狀態: \u2705"
         }
       ]
     },
@@ -393,7 +393,7 @@
           "date": "2024-04-03",
           "size": 27388308,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/Eros-FE_1.6.1+541.ipa",
-          "localizedDescription": "E-Hentai\n最後更新時間: 04-03-2024\n狀態: \u2754"
+          "localizedDescription": "E-Hentai\n最後更新時間: 04-03-2024\n狀態: \u2705"
         }
       ]
     },    
@@ -453,7 +453,7 @@
           "date": "2024-03-18",
           "size": 162640,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollSpeed-1.11.11.ipa",
-          "localizedDescription": "在狀態列下方顯示上傳和下載速度。 適用於與 TrollStore 相容的所有 iOS 版本。 注意：在 iOS 16 及更高版本上，\"Developer Mode\" needs to be activated.\n最後更新時間: 03-18-2024\n狀態: \u2705"
+          "localizedDescription": "在狀態列下方顯示上傳和下載速度。 適用於與 TrollStore 相容的所有 iOS 版本。 注意：在 iOS 16 及更高版本上，需要啟動“開發者模式”。\n最後更新時間: 03-18-2024\n狀態: \u2705"
         }
       ]
     },
@@ -708,7 +708,7 @@
           "date": "2023-12-26",
           "size": 691519,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollDecrypt-1.1.ipa",
-          "localizedDescription": "無需最初啟動應用程式即可快速砸殼任何 IPA，並且由於包含歷史記錄功能，因此無需透過 Filza 導航來找到砸殼的檔案！\n最後更新時間: 12-12-2023\n狀態: \u2705 \ud83d\udc4d"
+          "localizedDescription": "無需最初啟動應用程式即可快速砸殼任何 IPA，並且由於包含歷史記錄功能，因此無需透過 Filza 導航來找到砸殼的檔案！\n最後更新時間: 12-12-2023\n狀態: \u2705"
         }
       ]
     },
@@ -768,7 +768,7 @@
           "date": "2023-07-30",
           "size": 25023076,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/FTPManager_Pro_8.3.ipa",
-          "localizedDescription": "FTPManager Pro 砸殼\n最後更新時間: 07-30-2023\n狀態: \u26a0\ufe0f"
+          "localizedDescription": "FTPManager Pro 砸殼\n最後更新時間: 07-30-2023\n狀態: \u2705"
         }
       ]
     },    
@@ -783,7 +783,7 @@
           "date": "2023-05-12",
           "size": 6998429,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/RingTonesManager-1.1-4.tipa",
-          "localizedDescription": "限 TrollStore。 解除 iPhone 鈴聲 30 秒限制，支援一鍵導入系統鈴聲。\n最後更新時間: 05-12-2023\n狀態: \u26a0\ufe0f"
+          "localizedDescription": "限 TrollStore。 解除 iPhone 鈴聲 30 秒限制，支援一鍵導入系統鈴聲。\n最後更新時間: 05-12-2023\n狀態: \u2705"
         }
       ]
     },    
@@ -851,13 +851,13 @@
       "name": "PostBox",
       "bundleIdentifier": "com.simplycode.PostBox",
       "developerName": "N/A",
-      "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.simplycode.PostBox.png",
+      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.simplycode.PostBox.png",
       "versions": [
         {
           "version": "0.8.1",
           "date": "2022-11-15",
           "size": 8499905,
-          "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/PostBox_0.8.1_beta.ipa",
+          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/11-15-2022/PostBox_0.8.1_beta.ipa",
           "localizedDescription": "可讓您瀏覽/新增儲存庫並下載Tweak以使用所需的套件管理器進行安裝\n最後更新時間: 11-15-2022\n狀態: \u26a0\ufe0f"
         }
       ]
