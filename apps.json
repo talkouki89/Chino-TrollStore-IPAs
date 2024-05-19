@@ -594,7 +594,7 @@
     },
     {
       "name": "AppDump2",
-      "bundleIdentifier": "cn.bswbw.AppsDump",
+      "bundleIdentifier": "cn.gblw.AppsDump",
       "developerName": "CyPwn IPA Library",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png",
       "versions": [
