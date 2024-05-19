@@ -504,7 +504,7 @@
     },
     {
       "name": "EhPanda",
-      "bundleIdentifier": "app.EhPanda",
+      "bundleIdentifier": "app.ehpanda",
       "developerName": "EhPanda-Team",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/zeng.EhPanda.png",
       "versions": [
