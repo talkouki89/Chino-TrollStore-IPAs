@@ -59,7 +59,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
       "versions": [
         {
-          "version": "10.41-4.3",
+          "version": "10.41",
           "date": "2024-05-17",
           "size": 123240771,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/BHX-10.41-4.3.ipa",
@@ -74,7 +74,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
       "versions": [
         {
-          "version": "331.1.0-1.2.8",
+          "version": "331.1.0",
           "date": "2024-05-17",
           "size": 155271632,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstagramNyx-331.1.0-1.2.8.ipa",
@@ -89,7 +89,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
       "versions": [
         {
-          "version": "331.1.0-3.8.24",
+          "version": "331.1.0",
           "date": "2024-05-17",
           "size": 154539597,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstagramRocket-331.1.0-3.8.24.ipa",
@@ -209,7 +209,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.spotify.client.png",
       "versions": [
         {
-          "version": "8.9.38-3.0",
+          "version": "8.9.38",
           "date": "2024-05-10",
           "size": 72660511,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/EeveeSpotify-8.9.38-3.0.ipa",
@@ -284,7 +284,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
       "versions": [
         {
-          "version": "327.1.0-1.2.4",
+          "version": "327.1.0",
           "date": "2024-04-16",
           "size": 148421214,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaNyxBH-327.1.0-1.2.4.ipa",
@@ -299,7 +299,7 @@
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
       "versions": [
         {
-          "version": "327.1.0-3.8.24",
+          "version": "327.1.0",
           "date": "2024-04-16",
           "size": 146082121,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaRocketCracked-327.1.0-3.8.24.ipa",
@@ -319,21 +319,6 @@
           "size": 6888282,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollInstallerX-1.0.2.ipa",
           "localizedDescription": "適用於 iOS 14.0 至 16.6.1 的 TrollStore 安裝程序\n最後更新時間: 04-09-2024\n狀態: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstagramLRD",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "IPA Fire / nowesr1 / Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "325.0.3",
-          "date": "2024-04-05",
-          "size": 144783409,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstagramLRD-325.0.3.ipa",
-          "localizedDescription": "功能包括媒體保存/分享/預覽（包括故事）、顯示關注狀態、停用打字狀態、匿名查看 DM、停用廣告、用於帳戶切換的 FaceID、 etc.\n最後更新時間: 04-05-2024\n狀態: \u26a0\ufe0f"
         }
       ]
     },
@@ -394,21 +379,6 @@
           "size": 98391105,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TruecallerPremium-12.86.5.ipa",
           "localizedDescription": "限 TrollStore。 黃金會員破解，（需要更多測試）。 教學：先從 App Store 安裝 TrueCaller，然後按照螢幕上提供的所有說明進行操作。 完成此操作後，繼續強制安裝 TrollStore 版本。 （無需卸載原應用）\n最後更新時間: 03-27-2024\n狀態: \u2754 \u2b50"
-        }
-      ]
-    },
-    {
-      "name": "InstaRocketBH",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "zxcvbn's tweaked IPAs / BandarHL / SoCuul",
-      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "324.0.4-3.8.24-0.2.2",
-          "date": "2024-03-25",
-          "size": 142248107,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaRocketBH-324.0.4-3.8.24-0.2.2.ipa",
-          "localizedDescription": "注入 Rocket Cracked（所有功能均可使用）和 BH（新）。 若要啟動 Rocket，點擊底部廣告-> 點擊Upgrade Now-> 點擊Restore Purchases\n最後更新時間: 03-25-2024\n狀態: \u26a0\ufe0f"
         }
       ]
     },
@@ -533,36 +503,6 @@
       ]
     },
     {
-      "name": "InstaLRDBH",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "rznkn / riadipa",
-      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "2.5-312.0.1",
-          "date": "2024-01-20",
-          "size": 143512305,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaLRDBH-2.5-312.0.1.ipa",
-          "localizedDescription": "Instagram，注入了 LRD Cracked 和 BH。\n最後更新時間: 01-20-2024\n狀態: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
-      "name": "InstaNyxLRD",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "riadipa / rznkn",
-      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "312.0.1-1.1.8-2.5",
-          "date": "2024-01-20",
-          "size": 148319911,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaNyxLRD-312.0.1-1.1.8-2.5.ipa",
-          "localizedDescription": "Instagram，注入了 Nyx 和 LRD，都沒有破解。\n最後更新時間: 01-20-2024\n狀態: \u26a0\ufe0f"
-        }
-      ]
-    },
-    {
       "name": "AppDump2",
       "bundleIdentifier": "cn.gblw.AppsDump",
       "developerName": "CyPwn IPA Library",
@@ -679,21 +619,6 @@
           "size": 691519,
           "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/TrollDecrypt-1.1.ipa",
           "localizedDescription": "無需最初啟動應用程式即可快速砸殼任何 IPA，並且由於包含歷史記錄功能，因此無需透過 Filza 導航來找到砸殼的檔案！\n最後更新時間: 12-12-2023\n狀態: \u2705"
-        }
-      ]
-    },
-    {
-      "name": "InstaRocketPlus",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "CyPwn IPA Library / DPixel / DarkWebUser / Manpreet Singh @thisismanpreets",
-      "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-      "versions": [
-        {
-          "version": "310.0.4-3.8.18-2.5.0",
-          "date": "2023-12-10",
-          "size": 135909810,
-          "downloadURL": "https://github.com/talkouki89/Chion-TrollStore-IPAs/releases/download/05-19-2024/InstaRocketPlus-310.0.4-3.8.18-2.5.0.ipa",
-          "localizedDescription": "注入 Rocket 和 Plus for Instagram 。 如果您使用 friendship state checker，請從 Rocket 設定中啟用檢查器。 Plus for Instagram 的版本已損壞，會導致較新版本的 Instagram 中的應用程式崩潰。 若要啟動 Rocket，點擊底部廣告-> 點擊Upgrade Now-> 點擊Restore Purchases\n最後更新時間: 12-10-2023\n狀態: \u26a0\ufe0f"
         }
       ]
     },
