@@ -467,7 +467,7 @@
     {
       "name": "DuolingoMax",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "developerName": "ArianaMinajj / iOS\u5b9d\u85cf",
+      "developerName": "ArianaMinajj",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
       "versions": [
         {
@@ -527,7 +527,7 @@
     {
       "name": "ESign",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
-      "developerName": "CyPwn IPA Library / AppDB",
+      "developerName": "ESign",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
       "versions": [
         {
@@ -572,7 +572,7 @@
     {
       "name": "AppDump2",
       "bundleIdentifier": "cn.gblw.AppsDump",
-      "developerName": "CyPwn IPA Library",
+      "developerName": "wh1te4ever",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png",
       "versions": [
         {
@@ -587,7 +587,7 @@
     {
       "name": "Filza",
       "bundleIdentifier": "com.tigisoftware.Filza",
-      "developerName": "TigiSoftware / CyPwn IPA Library / iOS_TrollStore",
+      "developerName": "TigiSoftware / iOS_TrollStore",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
       "versions": [
         {
@@ -692,7 +692,7 @@
     {
       "name": "AppsManager",
       "bundleIdentifier": "com.tigisoftware.ADManager",
-      "developerName": "TigiSoftware / CyPwn IPA Library",
+      "developerName": "TigiSoftware",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png",
       "versions": [
         {
@@ -797,7 +797,7 @@
     {
       "name": "PostBox",
       "bundleIdentifier": "com.simplycode.PostBox",
-      "developerName": "N/A",
+      "developerName": "PostBoxTeam",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chion-TrollStore-IPAs/main/icons/com.simplycode.PostBox.png",
       "versions": [
         {
