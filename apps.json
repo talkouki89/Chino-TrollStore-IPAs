@@ -465,7 +465,7 @@
     }, 
     {
       "name": "Reveil",
-      "bundleIdentifier": "com.reveil.app",
+      "bundleIdentifier": "com.82flex.reveil",
       "developerName": "Lessica",
       "iconURL": "https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.reveil.app.png",
       "versions": [
