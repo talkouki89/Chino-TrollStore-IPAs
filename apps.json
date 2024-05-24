@@ -1,1072 +1,1080 @@
 {
-  "name":"Chino TrollStoreIPAs Library",
-  "identifier":"xyz.chino.ipalibrary",
-  "description":"Welcome to my source!",
-  "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/Peko.jpg",
-  "headerURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/Peko.jpg",
-  "website":"https://github.com/talkouki89",
-  "sourceURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/apps.json",
-  "apps":[
-     {
-        "name":"YTLitePlus",
-        "bundleIdentifier":"com.google.ios.youtube",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-        "versions":[
-           {
-              "version":"19.20.2",
-              "date":"2024-05-21",
-              "size":114479657,
-              "downloadURL":"https://dl.getdropbox.com/scl/fi/ujzhhuo4oqkecokx2tpmb/YTLitePlus-v19.20.2.ipa?rlkey=03yqh5c9yfmat23zv8cum7ki2&st=23drp4vc&dl=0",
-              "localizedDescription":"採用 YTLite（由 @dayanch96 提供）和 20多項Tweak\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
-           },
-           {
-              "version":"19.19.7",
-              "date":"2024-05-17",
-              "size":108096009,
-              "downloadURL":"https://dl.getdropbox.com/scl/fi/zq0ciyjm1jsm04fxfvb71/YTLitePlus-19.19.7.ipa?rlkey=n8kztlok50q855pt2uliopt0v&st=a4nl4mzl&dl=0",
-              "localizedDescription":"採用 YTLite（由 @dayanch96 提供）和 20多項Tweak\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"uYouEnhanced",
-        "bundleIdentifier":"com.google.ios.youtube",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
-        "versions":[
-           {
-              "version":"19.20.2",
-              "date":"2024-05-21",
-              "size":130886877,
-              "downloadURL":"https://dl.getdropbox.com/scl/fi/mdz7tueg29qhymja0vwu6/YTuYouEnahnced-v19.20.2.ipa?rlkey=v0blew4ftif2fhufhbla0r5xj&st=dvjzjg5x&dl=0",
-              "localizedDescription":"uYouEnhanced是uYou+（由@qnblackcat製作）的擴展版本，具有附加功能，主要為非越獄用戶製作！\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
-           },
-           {
-              "version":"19.19.7",
-              "date":"2024-05-17",
-              "size":123856462,
-              "downloadURL":"https://dl.getdropbox.com/scl/fi/kzynsckq7mqaaubdkriot/uYouEnhanced-19.19.7.ipa?rlkey=z6gzzn9k4to77g9rppmhjbhdn&st=odzqgovb&dl=0",
-              "localizedDescription":"uYouEnhanced是uYou+（由@qnblackcat製作）的擴展版本，具有附加功能，主要為非越獄用戶製作！\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"YTMusicUltimate",
-        "bundleIdentifier":"com.google.ios.youtubemusic",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
-        "versions":[
-           {
-              "version":"7.02.2",
-              "date":"2024-05-21",
-              "size":74440481,
-              "downloadURL":"https://dl.getdropbox.com/scl/fi/pm2hq71vh8xbw2t7hk7pd/YTMusicUltimate-v7.02.2.ipa?rlkey=st4eufvtgpfuhinb4jbqmbs8p&st=svnfrlgn&dl=0",
-              "localizedDescription":"無限暢聽， 可從外掛程式設定去廣告，後台播放，顯示播放速度按鈕，複製歌詞，主題設置，導覽列設定等。\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
-           },
-           {
-              "version":"6.51.0",
-              "date":"2024-05-17",
-              "size":73672519,
-              "downloadURL":"https://dl.getdropbox.com/scl/fi/ojbf15crq57k00kl567ym/YTMusicUltimate-6.51.ipa?rlkey=khd4y72slripei1agc4zgio3w&st=jsypiiyy&dl=0",
-              "localizedDescription":"無限暢聽， 可從外掛程式設定去廣告，後台播放，顯示播放速度按鈕，複製歌詞，主題設置，導覽列設定等。\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"BHX",
-        "bundleIdentifier":"com.atebits.Tweetie2",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
-        "versions":[
-           {
-              "version":"10.42",
-              "date":"2024-05-22",
-              "size":125802303,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BHTwitter-v10.42.ipa",
-              "localizedDescription":"X(Twitter), 新增了自訂字體、影片儲存、無廣告、選項卡自訂等功能！ \n最後更新時間: 05-22-2024\n狀態: \u2705 \ud83d\udc4d"
-           },
-           {
-              "version":"10.41",
-              "date":"2024-05-17",
-              "size":123240771,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/BHX-10.41-4.3.ipa",
-              "localizedDescription":"X(Twitter), 新增了自訂字體、影片儲存、無廣告、選項卡自訂等功能！ \n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"InstagramNyx",
-        "bundleIdentifier":"com.burbn.instagram",
-        "developerName":"Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement / nowesr1",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-        "versions":[
-           {
-              "version":"332.0.2",
-              "date":"2024-05-23",
-              "size":153351369,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/InstagramNyx-332.0.2-1.3.0b.ipa",
-              "localizedDescription":"40 多項進階功能（進階）、自適應活動狀態、個人化介面、影像和影片下載、自訂相簿和源自訂。 透過搖晃裝置或按住主畫面按鈕輕鬆存取 Nyx 選單。 Nyx 優先考慮用戶友善性和隱私，確保不會儲存或向第三方出售個人資料。 即使您選擇不購買，您仍然可以存取一些無需建立帳戶的免費功能。\n最後更新時間: 05-23-2024\n狀態: \u2705"
-           },
-           {
-              "version":"331.1.0",
-              "date":"2024-05-17",
-              "size":155271632,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstagramNyx-331.1.0-1.2.8.ipa",
-              "localizedDescription":"40 多項進階功能（進階）、自適應活動狀態、個人化介面、影像和影片下載、自訂相簿和源自訂。 透過搖晃裝置或按住主畫面按鈕輕鬆存取 Nyx 選單。 Nyx 優先考慮用戶友善性和隱私，確保不會儲存或向第三方出售個人資料。 即使您選擇不購買，您仍然可以存取一些無需建立帳戶的免費功能。\n最後更新時間: 05-17-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"InstagramRocket",
-        "bundleIdentifier":"com.burbn.instagram",
-        "developerName":"Ed0.ipa (IPA NOT CRACKED)",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-        "versions":[
-           {
-              "version":"331.1.0",
-              "date":"2024-05-17",
-              "size":154539597,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstagramRocket-331.1.0-3.8.24.ipa",
-              "localizedDescription":"Instagram 注入了 Rocket。\n最後更新時間: 05-17-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"InstaRegram",
-        "bundleIdentifier":"com.burbn.instagram",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-        "versions":[
-           {
-              "version":"332.0.2",
-              "date":"2024-05-22",
-              "size":159403088,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/InstagramNyx-332.0.2-1.3.0b.ipa",
-              "localizedDescription":"新增了Regram Crack。若要啟動Regram，從settings >  license management登入您的 Patreon 帳戶以解鎖鎖定的功能。\n最後更新時間: 05-22-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"Remini",
-        "bundleIdentifier":"com.alightcreative.motion",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
-        "versions":[
-           {
-              "version":"2.10.32",
-              "date":"2024-05-22",
-              "size":187346963,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Remini-v2.10.32.ipa",
-              "localizedDescription":"廣告時間為 3 秒，而非 30 秒。\n最後更新時間: 05-22-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"AlightMotionPremium",
-        "bundleIdentifier":"com.alightcreative.motion",
-        "developerName":"iOS Tutorials + App Cracks",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.alightcreative.motion.png",
-        "versions":[
-           {
-              "version":"6.2.6",
-              "date":"2024-05-16",
-              "size":115205137,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AlightMotionPremium-6.2.6.ipa",
-              "localizedDescription":"無需購買，登入即解鎖會員功能\n最後更新時間: 05-16-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"Pyoncord",
-        "bundleIdentifier":"com.hammerandchisel.discord",
-        "developerName":"pyoncord / zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
-        "versions":[
-           {
-              "version":"230.0",
-              "date":"2024-05-21",
-              "size":99218413,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Pyoncord-230.0.ipa",
-              "localizedDescription":"源自於著名的 Vendetta 調整，這個注入 Disocrd 的新 Tweak 可以用作 Vendetta 的可能替代方案\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
-           },
-           {
-              "version":"229.0",
-              "date":"2024-05-16",
-              "size":99348048,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Pyoncord-229.0.ipa",
-              "localizedDescription":"源自於著名的 Vendetta 調整，這個注入 Disocrd 的新 Tweak 可以用作 Vendetta 的可能替代方案\n最後更新時間: 05-16-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"DopamineRoothideBeta",
-        "bundleIdentifier":"com.opa334.Dopamine-roothide",
-        "developerName":"Ty Family",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.opa334.Dopamine-roothide.png",
-        "versions":[
-           {
-              "version":"2.1.4.9",
-              "date":"2024-05-23",
-              "size":53615810,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/DopamineRoothideBeta-v2.1.4.9-1.ipa",
-              "localizedDescription":"Dopamine-Roothide-Beta版\n最後更新時間: 05-23-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"Goodnotes6",
-        "bundleIdentifier":"com.goodnotesapp.x",
-        "developerName":"MaxiTech | IPAs ",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
-        "versions":[
-           {
-              "version":"6.3.28",
-              "date":"2024-05-24",
-              "size":330862700,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Goodnotes.6-v6.3.28.ipa",
-              "localizedDescription":"注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
-           },
-           {
-              "version":"6.3.27",
-              "date":"2024-05-19",
-              "size":330603810,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Goodnotes6-v6.3.27.ipa",
-              "localizedDescription":"注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
-           },
-           {
-              "version":"6.3.25",
-              "date":"2024-05-15",
-              "size":330592734,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Goodnotes6-6.3.25.ipa",
-              "localizedDescription":"注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"AdobeLightroom For iPad",
-        "bundleIdentifier":"com.adobe.lrmobile",
-        "developerName":"MaxiTech | IPAs ",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
-        "versions":[
-           {
-              "version":"9.3.0",
-              "date":"2024-05-21",
-              "size":180770337,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/AdobeLightroomiPad-v9.3.0.ipa",
-              "localizedDescription":"注入了 Satella。 另一種流行的影片/圖像編輯器。按一下購買，然後按一下“取消。僅適用於 iPad。\n最後更新時間: 05-21-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"VSCOPremium",
-        "bundleIdentifier":"co.visualsupply.cam",
-        "developerName":"MaxiTech | IPAs ",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
-        "versions":[
-           {
-              "version":"374.0.0",
-              "date":"2024-05-18",
-              "size":120720612,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/VSCOPremium-374.0.ipa",
-              "localizedDescription":"VSCO 已解鎖高級功能。 注意：透過 TrollStore 安裝，然後透過 AppStore 重新安裝，或從 App Store 安裝，然後繼續強制安裝 TrollStore 版本。 此過程（可能）使調整保持有效，並應解決任何下載問題。\n最後更新時間: 05-15-2024\n狀態: \u2705"
-           },
-           {
-              "version":"373.0.0",
-              "date":"2024-05-15",
-              "size":121616504,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/VSCOPremium-373.0.ipa",
-              "localizedDescription":"VSCO 已解鎖高級功能。 注意：透過 TrollStore 安裝，然後透過 AppStore 重新安裝，或從 App Store 安裝，然後繼續強制安裝 TrollStore 版本。 此過程（可能）使調整保持有效，並應解決任何下載問題。\n最後更新時間: 05-15-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"TrollRecorder",
-        "bundleIdentifier":"wiki.qaq.trapp",
-        "developerName":"Lessica",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
-        "versions":[
-           {
-              "version":"1.9.3",
-              "date":"2024-05-20",
-              "size":3237518,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/TrollRecorder-1.9.3-166.ipa",
-              "localizedDescription":"附 TrollStore 的高級錄音機。 基本功能免費提供，高級功能可透過購買解鎖\n最後更新時間: 05-20-2024\n狀態: \u2705"
-           },
-           {
-              "version":"1.8.7",
-              "date":"2024-05-14",
-              "size":2378032,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.8.7-150.ipa",
-              "localizedDescription":"附 TrollStore 的高級錄音機。 基本功能免費提供，高級功能可透過購買解鎖\n最後更新時間: 05-14-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"BeautyPlusPremium",
-        "bundleIdentifier":"com.commsource.BeautyPlus",
-        "version":"7.7.103",
-        "versionDate":"2024-05-13",
-        "size":238124043,
-        "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BeautyPlusPremium-7.7.103.ipa",
-        "developerName":"Manpreet Singh @thisismanpreeets",
-        "localizedDescription":"另一個注入了 Premium 的 AI 照片編輯器。\n最後更新時間: 05-13-2024\n狀態: \u2705",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
-     },
-     {
-        "name":"MeituPlusPlus",
-        "bundleIdentifier":"com.meitu.mtxx",
-        "developerName":"iApps / iOS Tutorials + App Cracks",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
-        "versions":[
-           {
-              "version":"10.11.0",
-              "date":"2024-05-24",
-              "size":261620796,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/MeituPlusPlus-v10.11.0.ipa",
-              "localizedDescription":"美圖秀秀，一款照片和人工智慧藝術生成器，已破解進階功能。 注意：您必須先登錄，即使它表明您不是 VIP，功能仍然可以使用。（VIP+仍然無法訪問）\n最後更新時間: 05-24-2024\n狀態: \u2705 \u2b50"
-           },
-           {
-              "version":"10.10.1",
-              "date":"2024-05-13",
-              "size":251488874,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/MeituPlusPlus-10.10.1.ipa",
-              "localizedDescription":"美圖秀秀，一款照片和人工智慧藝術生成器，已破解進階功能。 注意：您必須先登錄，即使它表明您不是 VIP，功能仍然可以使用。（VIP+仍然無法訪問）\n最後更新時間: 05-13-2024\n狀態: \u2705 \u2b50"
-           }
-        ]
-     },
-     {
-        "name":"TwitchPlus",
-        "bundleIdentifier":"tv.twitch",
-        "developerName":"AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/tv.twitch.png",
-        "versions":[
-           {
-              "version":"19.6",
-              "date":"2024-05-21",
-              "size":83054237,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/TwitchPlus-19.6-0.1.1.ipa",
-              "localizedDescription":"Twitch Toolbox 的替代品，Twitch，無廣告。\n最後更新時間: 05-21-2024\n狀態: \u2705"
-           },
-           {
-              "version":"19.4",
-              "date":"2024-05-12",
-              "size":82744617,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TwitchPlus-19.4-0.1.1.ipa",
-              "localizedDescription":"Twitch Toolbox 的替代品，Twitch，無廣告。\n最後更新時間: 05-12-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"LINE-K2ge3-TrollStore-v1.0.5",
-        "bundleIdentifier":"jp.naver.line",
-        "developerName":"m4fn3",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/jp.naver.line.png",
-        "versions":[
-           {
-              "version":"14.6.3",
-              "date":"2024-05-11",
-              "size":127910091,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/LINE-14.6.3+v1.0.5.ipa",
-              "localizedDescription":"(需內部購買授權碼)增強 LINE 功能！顯示已讀用戶、顯示收回訊息、不會顯示已讀、移除廣告..etc\n最後更新時間: 05-11-2024\n狀態: \u2705"
-           },
-           {
-              "version":"13.5.1",
-              "date":"2024-05-11",
-              "size":118652414,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/LINE-13.5.1+v1.0.5.ipa",
-              "localizedDescription":"(需內部購買授權碼)增強 LINE 功能！顯示已讀用戶、顯示收回訊息、不會顯示已讀、移除廣告..etc\n最後更新時間: 05-11-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"EeveeSpotify",
-        "bundleIdentifier":"com.spotify.client",
-        "developerName":"EeveeSpotify IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.spotify.client.png",
-        "versions":[
-           {
-              "version":"8.9.38",
-              "date":"2024-05-10",
-              "size":72660511,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/EeveeSpotify-8.9.38-3.0.ipa",
-              "localizedDescription":"作為最初但現已過時的 Spotilife 調整的繼承者，EeveeSpotify 成為第一個也是唯一一個（目前）具有訪問 Spotify Premium 巨大潛力的Tweak。 注意：我只會託管穩定且在我這邊運行良好的 IPA。 請隨時檢查他們的存儲庫是否有更新。 若要修復小工具，請從 App Store 在 Eevee 上安裝 Spotify，然後繼續透過 Spotify 強制安裝 Eevee。\n最後更新時間: 05-10-2024\n狀態: \u2705 \u2b50 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"FacebookWolf",
-        "bundleIdentifier":"com.facebook.Facebook",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
-        "versions":[
-           {
-              "version":"464.0.4",
-              "date":"2024-05-21",
-              "size":147131532,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/FacebookWolf-464.0.0.ipa",
-              "localizedDescription":"隱身查看訊息、停用輸入狀態、隱身查看限動、停用自動播放下一個故事、按讚確認，長按儲存影片和照片，etc。\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
-           },
-           {
-              "version":"463.0.4",
-              "date":"2024-05-10",
-              "size":153007992,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/FacebookWolf-463.0.4.ipa",
-              "localizedDescription":"隱身查看訊息、停用輸入狀態、隱身查看限動、停用自動播放下一個故事、按讚確認，長按儲存影片和照片，etc。\n最後更新時間: 05-10-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"InstaMulti",
-        "bundleIdentifier":"com.burbn.instagram",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-        "versions":[
-           {
-              "version":"330.0.0",
-              "date":"2024-05-08",
-              "size":158759722,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstaMulti-330.0.0.ipa",
-              "localizedDescription":"注入InstaMultiTweak。\n最後更新時間: 05-08-2024\n狀態: \u26a0\ufe0f"
-           }
-        ]
-     },
-     {
-        "name":"InfusePro",
-        "bundleIdentifier":"com.firecore.infuse",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.firecore.infuse.png",
-        "versions":[
-           {
-              "version":"7.7.5",
-              "date":"2024-05-08",
-              "size":43610271,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InfusePro-7.7.5.ipa",
-              "localizedDescription":"由 dayanch96 注入 InfusePlus。 精美的媒體/視訊播放器，已破解為高級版。\n最後更新時間: 05-19-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"ChargeLimiter",
-        "bundleIdentifier":"chaoge.ChargeLimiter",
-        "developerName":"lich4",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png",
-        "versions":[
-           {
-              "version":"1.6",
-              "date":"2024-05-02",
-              "size":2445765,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ChargeLimiter-1.6.ipa",
-              "localizedDescription":"該應用程式的靈感來自 MacOS 版本，它可避免 iPhone/iPad 長時間過度充電，從而損壞電池。 它允許用戶設定最大和最小充電容量以及充電的最高溫度閾值。 配置完成後，守護程序將持續監控電池容量。\n最後更新時間: 05-02-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"InShotPro",
-        "bundleIdentifier":"com.camerasideas.InstaShot",
-        "developerName":"AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
-        "versions":[
-           {
-              "version":"1.77.1",
-              "date":"2024-04-23",
-              "size":149778320,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InShotPro-1.77.1.ipa",
-              "localizedDescription":"流行的影片/圖像編輯器，已解鎖專業功能\n最後更新時間: 04-23-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"InstaNyxBH",
-        "bundleIdentifier":"com.burbn.instagram",
-        "developerName":"Manpreet Singh @thisismanpreets",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-        "versions":[
-           {
-              "version":"327.1.0",
-              "date":"2024-04-16",
-              "size":148421214,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstaNyxBH-327.1.0-1.2.4.ipa",
-              "localizedDescription":"注入 Nyx 和 BH。\n最後更新時間: 04-16-2024\n狀態: \u26a0\ufe0f"
-           }
-        ]
-     },
-     {
-        "name":"InstaRocketCracked",
-        "bundleIdentifier":"com.burbn.instagram",
-        "developerName":"AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-        "versions":[
-           {
-              "version":"327.1.0",
-              "date":"2024-04-16",
-              "size":146082121,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstaRocketCracked-327.1.0-3.8.24.ipa",
-              "localizedDescription":"注入 Rocket Cracked（所有功能均可使用）。 若要啟動 Rocket，點擊底部廣告-> 點擊Upgrade Now-> 點擊Restore Purchases\n最後更新時間: 04-16-2024\n狀態: \u26a0\ufe0f"
-           }
-        ]
-     },
-     {
-        "name":"PhotoshopExpress",
-        "bundleIdentifier":"com.adobe.PSMobile",
-        "developerName":"AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
-        "versions":[
-           {
-              "version":"24.20.0",
-              "versionDate":"2024-04-10",
-              "size":146044464,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/PhotoshopExpressPhotoEditor-v24.20.0.ipa",
-              "localizedDescription":"Adobe 的 Photoshop Express，已破解所有進階功能。 除了雲端儲存。\n最後更新時間: 04-10-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"TrollInstallerX",
-        "bundleIdentifier":"com.Alfie.TrollInstallerX",
-        "developerName":"alfiecg24",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
-        "versions":[
-           {
-              "version":"1.0.2",
-              "date":"2024-04-09",
-              "size":6888282,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollInstallerX-1.0.2.ipa",
-              "localizedDescription":"適用於 iOS 14.0 至 16.6.1 的 TrollStore 安裝程序\n最後更新時間: 04-09-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"RedditPlus",
-        "bundleIdentifier":"com.reddit.Reddit",
-        "developerName":"AppDB / Ed0.ipa",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
-        "versions":[
-           {
-              "version":"2024.13.0",
-              "date":"2024-04-04",
-              "size":123790920,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/RedditPlus-2024.13.0.ipa",
-              "localizedDescription":"Reddit，注入了 RedditFilter 和 RedditSideloadFix (level3tjg) 和 Riskkit (AppleCraxkhead)\n最後更新時間: 04-04-2024\n狀態: \u2754"
-           }
-        ]
-     },
-     {
-        "name":"BHTikTokPlus",
-        "bundleIdentifier":"com.zhiliaoapp.musically",
-        "developerName":"zxcvbn's tweaked IPAs",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/om.zhiliaoapp.musically.png",
-        "versions":[
-           {
-              "version":"34.7.0",
-              "date":"2024-05-20",
-              "size":209641901,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BHTikTokPlus-v34.7.0.ipa",
-              "localizedDescription":"這可能是 BHTikTokLRD 之前目前可用的最好的 TikTok 增強功能：具有完全改進的用戶界面、增強的穩定性、側載工作等。 注意：「更改區域」功能似乎不起作用。\n最後更新時間:05-20-2024\n狀態: \u26a0\ufe0f \ud83d\udc4d \u2b50"
-           }
-        ]
-     },
-     {
-        "name":"Eros-FE",
-        "bundleIdentifier":"cn.honjow.fehv",
-        "developerName":"3003h",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/cn.honjow.fehv.png",
-        "versions":[
-           {
-              "version":"1.6.1",
-              "date":"2024-04-03",
-              "size":27388308,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Eros-FE_1.6.1+541.ipa",
-              "localizedDescription":"E-Hentai\n最後更新時間: 04-03-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"LightroomPremium",
-        "bundleIdentifier":"com.adobe.lrmobilephone",
-        "developerName":"MaxiTech | IPAs ",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
-        "versions":[
-           {
-              "version":"9.3.0",
-              "date":"2024-05-22",
-              "size":178671458,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Lightroom-v9.3.0.ipa",
-              "localizedDescription":"注入了 Satella。 另一種流行的影片/圖像編輯器。按一下購買，然後按一下“取消。\n最後更新時間: 05-22-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"SpeedTestPremium",
-        "bundleIdentifier":"com.ookla.speedtest",
-        "developerName":"CyPwn IPA Library / Manpreet Singh @thisismanpreets",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.ookla.speedtest.png",
-        "versions":[
-           {
-              "version":"5.3.1",
-              "date":"2024-03-31",
-              "size":59896562,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024SpeedTestPremium-5.3.1.ipa",
-              "localizedDescription":"SpeedTest by Ookla, 具有高級功能\n最後更新時間: 03-31-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"TruecallerPremium",
-        "bundleIdentifier":"com.truesoftware.TrueCallerOther",
-        "developerName":"Ravand Bajlory / iOS Tutorials + App Cracks",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
-        "versions":[
-           {
-              "version":"12.86.5",
-              "date":"2024-03-27",
-              "size":98391105,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TruecallerPremium-12.86.5.ipa",
-              "localizedDescription":"限TrollStore。 黃金會員破解，（需要更多測試）。 教學：先從 App Store 安裝 TrueCaller，然後按照螢幕上提供的所有說明進行操作。 完成此操作後，繼續強制安裝 TrollStore 版本。 （無需卸載原應用）\n最後更新時間: 03-27-2024\n狀態: \u2754 \u2b50"
-           }
-        ]
-     },
-     {
-        "name":"TrollSpeed",
-        "bundleIdentifier":"ch.xxtou.hudapp",
-        "developerName":"Lessica",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
-        "versions":[
-           {
-              "version":"1.11.11",
-              "date":"2024-03-18",
-              "size":162640,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollSpeed-1.11.11.ipa",
-              "localizedDescription":"在狀態列下方顯示上傳和下載速度。 適用於與 TrollStore 相容的所有 iOS 版本。 注意：在 iOS 16 及更高版本上，需要啟動“開發者模式”。\n最後更新時間: 03-18-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"SwiftTop",
-        "bundleIdentifier":"ca.bomberfish.SwiftTop",
-        "developerName":"BomberFish",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/ca.bomberfish.SwiftTop.png",
-        "versions":[
-           {
-              "version":"0.5",
-              "date":"2024-03-11",
-              "size":5959886,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/SwiftTop-0.5.tipa",
-              "localizedDescription":"限TrollStore。利用Swift重寫的檢視進程AppCommander與CoCoaTop的結合體\n最後更新時間: 03-11-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"LocSim",
-        "bundleIdentifier":"com.mika.LocationSimulation",
-        "version":"1.4.1",
-        "versionDate":"2024-03-11",
-        "size":1467771,
-        "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/LocSim-1.4.1k.ipa",
-        "developerName":"CyPwn IPA Library",
-        "localizedDescription":"FakeGPS\n最後更新時間: 03-11-2024\n狀態: \u2705",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png"
-     },
-     {
-        "name":"ProcreatePocket",
-        "bundleIdentifier":"au.com.savageinteractive.procreate-pocket",
-        "version":"4.0.10",
-        "versionDate":"2024-03-07",
-        "size":300681781,
-        "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/ProcreatePocket-4.0.10.ipa",
-        "developerName":"N/A",
-        "localizedDescription":"這個應用程式沒有修改。\n最後更新時間: 03-07-2024\n狀態: \u2705",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png"
-     },
-     {
-        "name":"Reveil",
-        "bundleIdentifier":"com.82flex.reveil",
-        "developerName":"Lessica",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.reveil.app.png",
-        "versions":[
-           {
-              "version":"2.0",
-              "date":"2024-03-07",
-              "size":1618997,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Reveil-2.0.6.tipa",
-              "localizedDescription":"限TrollStore。先進的安全分析，各種視覺化資訊面板。\n最後更新時間: 03-07-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"DuolingoMax",
-        "bundleIdentifier":"com.duolingo.DuolingoMobile",
-        "developerName":"ArianaMinajj",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
-        "versions":[
-           {
-              "version":"7.9.0",
-              "date":"2024-03-02",
-              "size":112731883,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/DuolingoMax-7.9.0.ipa",
-              "localizedDescription":"全球最受歡迎的教育應用程序，提供一種有趣且免費的方式，透過簡短的互動課程學習 40 多種語言。 透過練習口語、閱讀、聽力和寫作來提高詞彙量和文法技能。\n最後更新時間: 03-02-2024\n狀態: \u2705 \ud83d\udc4d \u2b50"
-           }
-        ]
-     },
-     {
-        "name":"RingtoneMaker",
-        "bundleIdentifier":"com.csj.ling",
-        "developerName":"ArianaMinajj",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.csj.ling.png",
-        "versions":[
-           {
-              "version":"1.9.17",
-              "date":"2024-02-26",
-              "size":15388388,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/RingtoneMaker-1.9.17.ipa",
-              "localizedDescription":"注入 Satella，無廣告，鈴聲製作軟體\n最後更新時間: 02-26-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"Geranium",
-        "bundleIdentifier":"live.cclerc.geranium",
-        "developerName":"c22dev",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
-        "versions":[
-           {
-              "version":"1.1.2",
-              "date":"2024-02-23",
-              "size":6161855,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Geranium-1.1.2.ipa",
-              "localizedDescription":"用作包含 LocSim、Daemon Manager、Cleaner 和 Supervisor for TrollStore 的工具箱。\n最後更新時間: 02-23-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"OTADisabler",
-        "bundleIdentifier":"com.ichitaso.otadisablerts",
-        "developerName":"ichitaso",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png",
-        "versions":[
-           {
-              "version":"1.1.0",
-              "date":"2024-02-01",
-              "size":382742,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/OTADisabler-1.1.0.ipa",
-              "localizedDescription":" TrollStore 的 OTADisabler。\n最後更新時間: 02-01-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"ESign",
-        "bundleIdentifier":"p3.xyz.yyyue.esign",
-        "developerName":"ESign",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
-        "versions":[
-           {
-              "version":"5.0.2",
-              "date":"2024-01-28",
-              "size":7522792,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ESign-5.0.2.ipa",
-              "localizedDescription":"輕鬆簽。它偶爾也會為您提供免費證書來簽署應用程式。 也可以將 debs 注入您選擇的 IPA 中。\n最後更新時間: 01-28-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"EhPanda",
-        "bundleIdentifier":"app.ehpanda",
-        "developerName":"EhPanda-Team",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/zeng.EhPanda.png",
-        "versions":[
-           {
-              "version":"2.7.4",
-              "date":"2024-01-23",
-              "size":6685295,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/EhPanda-2.7.4.ipa",
-              "localizedDescription":"E-Hentai\n最後更新時間: 01-23-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"TrollCuts",
-        "bundleIdentifier":"com.udevs.TrollCuts",
-        "developerName":"udevsharold",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png",
-        "versions":[
-           {
-              "version":"1.1",
-              "date":"2024-01-23",
-              "size":529664,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollCuts-1.1.ipa",
-              "localizedDescription":"iOS 16.0+ 的捷徑擴展\n最後更新時間: 01-23-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"AppDump2",
-        "bundleIdentifier":"cn.gblw.AppsDump",
-        "developerName":"wh1te4ever",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png",
-        "versions":[
-           {
-              "version":"2.0.6",
-              "date":"2024-01-12",
-              "size":614335,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AppDump2-2.0.6.ipa",
-              "localizedDescription":"砸殼 IPA 檔案。 注意：要啟動解密過程，必須至少開啟一次所需的應用程式。 此外，可能需要 Filza 來定位解密的檔案。\n最後更新時間: 01-12-2024\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"Filza",
-        "bundleIdentifier":"com.tigisoftware.Filza",
-        "developerName":"TigiSoftware / iOS_TrollStore",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
-        "versions":[
-           {
-              "version":"4.0",
-              "date":"2024-01-03",
-              "size":13912275,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Filza-4.0.0-NoUrlScheme.ipa",
-              "localizedDescription":"已破解，NoURLScheme 版本。 iOS 檔案系統瀏覽器。\n最後更新時間: 01-03-2024\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"TrollApps",
-        "bundleIdentifier":"org.resonance.store",
-        "developerName":"TrollApps",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/org.resonance.store.png",
-        "versions":[
-           {
-              "version":"2.3b",
-              "date":"2023-12-29",
-              "size":5533915,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollApps-2.3b-Hotfix3.ipa",
-              "localizedDescription":"對於使用 TrollStore 的個人來說，這個新的 TrollApps 可以取代 iOS App Store，提供其前身的更新版本。 它使用戶能夠直接從各種儲存庫下載應用程式並將其安裝到 TrollStore 中。 需要 iOS 14.0> 和最新版本的 TrollStore。 注意：某些應用程式可能仍標記為“更新”，即使它們正在運行最新版本。\n最後更新時間: 12-29-2023\n狀態: \u2705 \ud83d\udc4d"
-           }
-        ]
-     },
-     {
-        "name":"Shadowrocket",
-        "bundleIdentifier":"com.liguangming.Shadowrocket",
-        "developerName":"Qamislo - Apps",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.liguangming.Shadowrocket.png",
-        "versions":[
-           {
-              "version":"2.2.41",
-              "date":"2023-12-19",
-              "size":34343960,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Shadowrocket-2.2.41.ipa",
-              "localizedDescription":"Shadowrocket砸殼。\n最後更新時間: 12-19-2023\n狀態: \u26a0\ufe0f"
-           }
-        ]
-     },
-     {
-        "name":"Cardio",
-        "bundleIdentifier":"com.cisc0freak.cardio",
-        "developerName":"cisc0disco",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.cisc0freak.cardio.png",
-        "versions":[
-           {
-              "version":"1.0",
-              "date":"2023-12-12",
-              "size":122212,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Cardio-1.0.ipa",
-              "localizedDescription":"一個利用 CoreTrust bug 修改 Apple Pay 圖片的應用程式。\n最後更新時間: 12-12-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"CocoaTop",
-        "bundleIdentifier":"ru.domo.cocoatop64",
-        "developerName":"D0m0 / imbazim",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/ru.domo.cocoatop64.png",
-        "versions":[
-           {
-              "version":"1.0",
-              "date":"2023-12-12",
-              "size":333223,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/CocoaTop-1.0.ipa",
-              "localizedDescription":"iOS 上查看進程資訊的工具。\n最後更新時間: 12-12-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"QuantumultX",
-        "bundleIdentifier":"com.crossutility.quantumult-x",
-        "developerName":"iOS Tutorials + App Cracks",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png",
-        "versions":[
-           {
-              "version":"1.4.2",
-              "date":"2023-12-12",
-              "size":16180965,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024QuantumultX-1.4.2.ipa",
-              "localizedDescription":"注意：如果沒有連結到購買時使用的相應 App ID 的收據，則無法使用過濾器； 沒有辦法繞過這個要求。\n最後更新時間: 12-12-2023\n狀態: \u26a0\ufe0f"
-           }
-        ]
-     },
-     {
-        "name":"TrollDecrypt",
-        "bundleIdentifier":"com.fiore.trolldecrypt",
-        "developerName":"donato-fiore",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.fiore.trolldecrypt.png",
-        "versions":[
-           {
-              "version":"1.1",
-              "date":"2023-12-26",
-              "size":691519,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollDecrypt-1.1.ipa",
-              "localizedDescription":"無需最初啟動應用程式即可快速砸殼任何 IPA，並且由於包含歷史記錄功能，因此無需透過 Filza 導航來找到砸殼的檔案！\n最後更新時間: 12-12-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"AppsManager",
-        "bundleIdentifier":"com.tigisoftware.ADManager",
-        "developerName":"TigiSoftware",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png",
-        "versions":[
-           {
-              "version":"1.8.4",
-              "date":"2023-12-01",
-              "size":3073412,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AppsManager-1.8.4.ipa",
-              "localizedDescription":"應用程式管理器，適用於 TrollStore！ 無需越獄即可建立/恢復備份、清除資料等\n最後更新時間: 12-01-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"ImageSearch",
-        "bundleIdentifier":"com.ipopapp.imagesearchfree",
-        "developerName":"DPixel",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png",
-        "versions":[
-           {
-              "version":"7.1",
-              "date":"2023-11-30",
-              "size":11263177,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ImageSearch-7.1.ipa",
-              "localizedDescription":"圖像搜尋應用程序，已破解為專業功能。 點選右上角的Pro，然後點選購買按鈕\n最後更新時間: 11-30-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"FTPManager Pro",
-        "bundleIdentifier":"com.skyjos.ftpmanager",
-        "developerName":"N/A",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.skyjos.ftpmanager.png",
-        "versions":[
-           {
-              "version":"8.3",
-              "date":"2023-07-30",
-              "size":25023076,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/FTPManager_Pro_8.3.ipa",
-              "localizedDescription":"FTPManager Pro 砸殼\n最後更新時間: 07-30-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"RingTonesManager",
-        "bundleIdentifier":"com.netskao.ringtonesmanager",
-        "developerName":"N/A",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.netskao.ringtonesmanager.png",
-        "versions":[
-           {
-              "version":"1.1-4",
-              "date":"2023-05-12",
-              "size":6998429,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/RingTonesManager-1.1-4.tipa",
-              "localizedDescription":"限 TrollStore。 解除 iPhone 鈴聲 30 秒限制，支援一鍵導入系統鈴聲。\n最後更新時間: 05-12-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"StatusMagic",
-        "bundleIdentifier":"com.avangelista.StatusMagic",
-        "developerName":"Avangelista",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png",
-        "versions":[
-           {
-              "version":"1.0.2",
-              "date":"2023-02-08",
-              "size":1218528,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/StatusMagic-1.0.2.ipa",
-              "localizedDescription":"狀態列自訂 - 變更載具文字、麵包屑文字或時鐘文本，或隱藏圖示。 重新啟動持續存在\n最後更新時間: 02-08-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"Anonycord",
-        "bundleIdentifier":"live.cclerc.Anonycord",
-        "developerName":"c22dev",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/live.cclerc.Anonycord.png",
-        "versions":[
-           {
-              "version":"1.2",
-              "date":"2023-01-31",
-              "size":1392905,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Anonycord-1.2.ipa",
-              "localizedDescription":"後台匿名錄影。 與 SparkDev 的 SneakyCam 類似的功能\n最後更新時間: 01-31-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"TrollTools",
-        "bundleIdentifier":"net.sourceloc.TrollTools",
-        "developerName":"sourcelocation",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
-        "versions":[
-           {
-              "version":"3.0",
-              "date":"2023-01-05",
-              "size":4372418,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollTools-3.0.tipa",
-              "localizedDescription":"Mugunghwa替代品。 如果另一個給您帶來問題，請使用此選項，反之亦然\n最後更新時間: 01-05-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"PostBox",
-        "bundleIdentifier":"com.simplycode.PostBox",
-        "developerName":"PostBoxTeam",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.simplycode.PostBox.png",
-        "versions":[
-           {
-              "version":"0.8.1",
-              "date":"2022-11-15",
-              "size":8499905,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/11-15-2022/PostBox_0.8.1_beta.ipa",
-              "localizedDescription":"可讓您瀏覽/新增儲存庫並下載Tweak以使用所需的套件管理器進行安裝\n最後更新時間: 11-15-2022\n狀態: \u26a0\ufe0f"
-           }
-        ]
-     },
-     {
-        "name":"AppStorePlusPlus",
-        "bundleIdentifier":"com.cokepokes.AppStorePlus",
-        "developerName":"CokePokes",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png",
-        "versions":[
-           {
-              "version":"1.0.3",
-              "date":"2022-11-10",
-              "size":17588239,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AppStorePlusPlus-1.0.3-2.ipa",
-              "localizedDescription":"CokePokes 的 AppStore++ for TrollStore！ 升級/降級 App Store 應用\n最後更新時間: 01-29-2023\n狀態: \u2705"
-           }
-        ]
-     },
-     {
-        "name":"ModMyIPA",
-        "bundleIdentifier":"com.powen.ModMyIPA",
-        "developerName":"powenn",
-        "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.powen.ModMyIPA.png",
-        "versions":[
-           {
-              "version":"1.0",
-              "date":"2022-11-10",
-              "size":2447058,
-              "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ModMyIPA.ipa",
-              "localizedDescription":"應用程式資訊（名稱、bundleID 等）編輯器，通常在安裝相同應用程式的重複項時使用\n最後更新時間: 10-28-2022\n狀態: \u2705"
-           }
-        ]
-     }
-  ]
-}
+   "name":"Chino TrollStoreIPAs Library",
+   "identifier":"xyz.chino.ipalibrary",
+   "description":"Welcome to my source!",
+   "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/Peko.jpg",
+   "headerURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/Peko.jpg",
+   "website":"https://github.com/talkouki89",
+   "sourceURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/apps.json",
+   "apps":[
+      {
+         "name":"YTLitePlus",
+         "bundleIdentifier":"com.google.ios.youtube",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+         "versions":[
+            {
+               "version":"19.20.2",
+               "date":"2024-05-21",
+               "size":114479657,
+               "downloadURL":"https://dl.getdropbox.com/scl/fi/ujzhhuo4oqkecokx2tpmb/YTLitePlus-v19.20.2.ipa?rlkey=03yqh5c9yfmat23zv8cum7ki2&st=23drp4vc&dl=0",
+               "localizedDescription":"採用 YTLite（由 @dayanch96 提供）和 20多項Tweak\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
+            },
+            {
+               "version":"19.19.7",
+               "date":"2024-05-17",
+               "size":108096009,
+               "downloadURL":"https://dl.getdropbox.com/scl/fi/zq0ciyjm1jsm04fxfvb71/YTLitePlus-19.19.7.ipa?rlkey=n8kztlok50q855pt2uliopt0v&st=a4nl4mzl&dl=0",
+               "localizedDescription":"採用 YTLite（由 @dayanch96 提供）和 20多項Tweak\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"uYouEnhanced",
+         "bundleIdentifier":"com.google.ios.youtube",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+         "versions":[
+            {
+               "version":"19.20.2",
+               "date":"2024-05-21",
+               "size":130886877,
+               "downloadURL":"https://dl.getdropbox.com/scl/fi/mdz7tueg29qhymja0vwu6/YTuYouEnahnced-v19.20.2.ipa?rlkey=v0blew4ftif2fhufhbla0r5xj&st=dvjzjg5x&dl=0",
+               "localizedDescription":"uYouEnhanced是uYou+（由@qnblackcat製作）的擴展版本，具有附加功能，主要為非越獄用戶製作！\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
+            },
+            {
+               "version":"19.19.7",
+               "date":"2024-05-17",
+               "size":123856462,
+               "downloadURL":"https://dl.getdropbox.com/scl/fi/kzynsckq7mqaaubdkriot/uYouEnhanced-19.19.7.ipa?rlkey=z6gzzn9k4to77g9rppmhjbhdn&st=odzqgovb&dl=0",
+               "localizedDescription":"uYouEnhanced是uYou+（由@qnblackcat製作）的擴展版本，具有附加功能，主要為非越獄用戶製作！\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"YTMusicUltimate",
+         "bundleIdentifier":"com.google.ios.youtubemusic",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
+         "versions":[
+            {
+               "version":"7.02.2",
+               "date":"2024-05-21",
+               "size":74440481,
+               "downloadURL":"https://dl.getdropbox.com/scl/fi/pm2hq71vh8xbw2t7hk7pd/YTMusicUltimate-v7.02.2.ipa?rlkey=st4eufvtgpfuhinb4jbqmbs8p&st=svnfrlgn&dl=0",
+               "localizedDescription":"無限暢聽， 可從外掛程式設定去廣告，後台播放，顯示播放速度按鈕，複製歌詞，主題設置，導覽列設定等。\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
+            },
+            {
+               "version":"6.51.0",
+               "date":"2024-05-17",
+               "size":73672519,
+               "downloadURL":"https://dl.getdropbox.com/scl/fi/ojbf15crq57k00kl567ym/YTMusicUltimate-6.51.ipa?rlkey=khd4y72slripei1agc4zgio3w&st=jsypiiyy&dl=0",
+               "localizedDescription":"無限暢聽， 可從外掛程式設定去廣告，後台播放，顯示播放速度按鈕，複製歌詞，主題設置，導覽列設定等。\n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"BHX",
+         "bundleIdentifier":"com.atebits.Tweetie2",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
+         "versions":[
+            {
+               "version":"10.42",
+               "date":"2024-05-22",
+               "size":125802303,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BHTwitter-v10.42.ipa",
+               "localizedDescription":"X(Twitter), 新增了自訂字體、影片儲存、無廣告、選項卡自訂等功能！ \n最後更新時間: 05-22-2024\n狀態: \u2705 \ud83d\udc4d"
+            },
+            {
+               "version":"10.41",
+               "date":"2024-05-17",
+               "size":123240771,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/BHX-10.41-4.3.ipa",
+               "localizedDescription":"X(Twitter), 新增了自訂字體、影片儲存、無廣告、選項卡自訂等功能！ \n最後更新時間: 05-17-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"InstagramNyx",
+         "bundleIdentifier":"com.burbn.instagram",
+         "developerName":"Ed0.ipa (IPA NOT CRACKED) / Sezo / Clement / nowesr1",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+         "versions":[
+            {
+               "version":"332.0.2",
+               "date":"2024-05-23",
+               "size":153351369,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/InstagramNyx-332.0.2-1.3.0b.ipa",
+               "localizedDescription":"40 多項進階功能（進階）、自適應活動狀態、個人化介面、影像和影片下載、自訂相簿和源自訂。 透過搖晃裝置或按住主畫面按鈕輕鬆存取 Nyx 選單。 Nyx 優先考慮用戶友善性和隱私，確保不會儲存或向第三方出售個人資料。 即使您選擇不購買，您仍然可以存取一些無需建立帳戶的免費功能。\n最後更新時間: 05-23-2024\n狀態: \u2705"
+            },
+            {
+               "version":"331.1.0",
+               "date":"2024-05-17",
+               "size":155271632,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstagramNyx-331.1.0-1.2.8.ipa",
+               "localizedDescription":"40 多項進階功能（進階）、自適應活動狀態、個人化介面、影像和影片下載、自訂相簿和源自訂。 透過搖晃裝置或按住主畫面按鈕輕鬆存取 Nyx 選單。 Nyx 優先考慮用戶友善性和隱私，確保不會儲存或向第三方出售個人資料。 即使您選擇不購買，您仍然可以存取一些無需建立帳戶的免費功能。\n最後更新時間: 05-17-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"InstagramRocket",
+         "bundleIdentifier":"com.burbn.instagram",
+         "developerName":"Ed0.ipa (IPA NOT CRACKED)",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+         "versions":[
+            {
+               "version":"331.1.0",
+               "date":"2024-05-17",
+               "size":154539597,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstagramRocket-331.1.0-3.8.24.ipa",
+               "localizedDescription":"Instagram 注入了 Rocket。\n最後更新時間: 05-17-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"InstaRegram",
+         "bundleIdentifier":"com.burbn.instagram",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+         "versions":[
+            {
+               "version":"332.0.2",
+               "date":"2024-05-22",
+               "size":159403088,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/InstagramNyx-332.0.2-1.3.0b.ipa",
+               "localizedDescription":"新增了Regram Crack。若要啟動Regram，從settings >  license management登入您的 Patreon 帳戶以解鎖鎖定的功能。\n最後更新時間: 05-22-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"Remini",
+         "bundleIdentifier":"com.alightcreative.motion",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
+         "versions":[
+            {
+               "version":"2.10.32",
+               "date":"2024-05-22",
+               "size":187346963,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Remini-v2.10.32.ipa",
+               "localizedDescription":"廣告時間為 3 秒，而非 30 秒。\n最後更新時間: 05-22-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"AlightMotionPremium",
+         "bundleIdentifier":"com.alightcreative.motion",
+         "developerName":"iOS Tutorials + App Cracks",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.alightcreative.motion.png",
+         "versions":[
+            {
+               "version":"6.2.6",
+               "date":"2024-05-16",
+               "size":115205137,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AlightMotionPremium-6.2.6.ipa",
+               "localizedDescription":"無需購買，登入即解鎖會員功能\n最後更新時間: 05-16-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"Pyoncord",
+         "bundleIdentifier":"com.hammerandchisel.discord",
+         "developerName":"pyoncord / zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+         "versions":[
+            {
+               "version":"230.0",
+               "date":"2024-05-21",
+               "size":99218413,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Pyoncord-230.0.ipa",
+               "localizedDescription":"源自於著名的 Vendetta 調整，這個注入 Disocrd 的新 Tweak 可以用作 Vendetta 的可能替代方案\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
+            },
+            {
+               "version":"229.0",
+               "date":"2024-05-16",
+               "size":99348048,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Pyoncord-229.0.ipa",
+               "localizedDescription":"源自於著名的 Vendetta 調整，這個注入 Disocrd 的新 Tweak 可以用作 Vendetta 的可能替代方案\n最後更新時間: 05-16-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"DopamineRoothideBeta",
+         "bundleIdentifier":"com.opa334.Dopamine-roothide",
+         "developerName":"Ty Family",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.opa334.Dopamine-roothide.png",
+         "versions":[
+            {
+               "version":"2.1.4.9",
+               "date":"2024-05-23",
+               "size":53615810,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/DopamineRoothideBeta-v2.1.4.9-1.ipa",
+               "localizedDescription":"Dopamine-Roothide-Beta版\n最後更新時間: 05-23-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"Goodnotes6",
+         "bundleIdentifier":"com.goodnotesapp.x",
+         "developerName":"MaxiTech | IPAs ",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
+         "versions":[
+            {
+               "version":"6.3.28",
+               "date":"2024-05-24",
+               "size":330862700,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Goodnotes.6-v6.3.28.ipa",
+               "localizedDescription":"注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+            },
+            {
+               "version":"6.3.27",
+               "date":"2024-05-19",
+               "size":330603810,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Goodnotes6-v6.3.27.ipa",
+               "localizedDescription":"注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+            },
+            {
+               "version":"6.3.25",
+               "date":"2024-05-15",
+               "size":330592734,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Goodnotes6-6.3.25.ipa",
+               "localizedDescription":"注意：首先從 App Store 安裝它，登錄，然後繼續強制安裝 TrollStore 版本。 這應該可以解決任何下載問題並授予對伺服器端功能（例如基於人工智慧的數學等）的存取權限。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"AdobeLightroom For iPad",
+         "bundleIdentifier":"com.adobe.lrmobile",
+         "developerName":"MaxiTech | IPAs ",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+         "versions":[
+            {
+               "version":"9.3.0",
+               "date":"2024-05-21",
+               "size":180770337,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/AdobeLightroomiPad-v9.3.0.ipa",
+               "localizedDescription":"注入了 Satella。 另一種流行的影片/圖像編輯器。按一下購買，然後按一下“取消。僅適用於 iPad。\n最後更新時間: 05-21-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"VSCOPremium",
+         "bundleIdentifier":"co.visualsupply.cam",
+         "developerName":"MaxiTech | IPAs ",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+         "versions":[
+            {
+               "version":"374.0.0",
+               "date":"2024-05-18",
+               "size":120720612,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/VSCOPremium-374.0.ipa",
+               "localizedDescription":"VSCO 已解鎖高級功能。 注意：透過 TrollStore 安裝，然後透過 AppStore 重新安裝，或從 App Store 安裝，然後繼續強制安裝 TrollStore 版本。 此過程（可能）使調整保持有效，並應解決任何下載問題。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+            },
+            {
+               "version":"373.0.0",
+               "date":"2024-05-15",
+               "size":121616504,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/VSCOPremium-373.0.ipa",
+               "localizedDescription":"VSCO 已解鎖高級功能。 注意：透過 TrollStore 安裝，然後透過 AppStore 重新安裝，或從 App Store 安裝，然後繼續強制安裝 TrollStore 版本。 此過程（可能）使調整保持有效，並應解決任何下載問題。\n最後更新時間: 05-15-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"TrollRecorder",
+         "bundleIdentifier":"wiki.qaq.trapp",
+         "developerName":"Lessica",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+         "versions":[
+            {
+               "version":"1.9.3",
+               "date":"2024-05-20",
+               "size":3237518,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/TrollRecorder-1.9.3-166.ipa",
+               "localizedDescription":"附 TrollStore 的高級錄音機。 基本功能免費提供，高級功能可透過購買解鎖\n最後更新時間: 05-20-2024\n狀態: \u2705"
+            },
+            {
+               "version":"1.8.7",
+               "date":"2024-05-14",
+               "size":2378032,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollRecorder-1.8.7-150.ipa",
+               "localizedDescription":"附 TrollStore 的高級錄音機。 基本功能免費提供，高級功能可透過購買解鎖\n最後更新時間: 05-14-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"BeautyPlusPremium",
+         "bundleIdentifier":"com.commsource.BeautyPlus",
+         "version":"7.7.103",
+         "versionDate":"2024-05-13",
+         "size":238124043,
+         "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BeautyPlusPremium-7.7.103.ipa",
+         "developerName":"Manpreet Singh @thisismanpreeets",
+         "localizedDescription":"另一個注入了 Premium 的 AI 照片編輯器。\n最後更新時間: 05-13-2024\n狀態: \u2705",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
+      },
+      {
+         "name":"MeituPlusPlus",
+         "bundleIdentifier":"com.meitu.mtxx",
+         "developerName":"iApps / iOS Tutorials + App Cracks",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.meitu.mtxx.png",
+         "versions":[
+            {
+               "version":"10.11.0",
+               "date":"2024-05-24",
+               "size":261620796,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/MeituPlusPlus-v10.11.0.ipa",
+               "localizedDescription":"美圖秀秀，一款照片和人工智慧藝術生成器，已破解進階功能。 注意：您必須先登錄，即使它表明您不是 VIP，功能仍然可以使用。（VIP+仍然無法訪問）\n最後更新時間: 05-24-2024\n狀態: \u2705 \u2b50"
+            },
+            {
+               "version":"10.10.1",
+               "date":"2024-05-13",
+               "size":251488874,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/MeituPlusPlus-10.10.1.ipa",
+               "localizedDescription":"美圖秀秀，一款照片和人工智慧藝術生成器，已破解進階功能。 注意：您必須先登錄，即使它表明您不是 VIP，功能仍然可以使用。（VIP+仍然無法訪問）\n最後更新時間: 05-13-2024\n狀態: \u2705 \u2b50"
+            }
+         ]
+      },
+      {
+         "name":"TwitchPlus",
+         "bundleIdentifier":"tv.twitch",
+         "developerName":"AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/tv.twitch.png",
+         "versions":[
+            {
+               "version":"19.6",
+               "date":"2024-05-21",
+               "size":83054237,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/TwitchPlus-19.6-0.1.1.ipa",
+               "localizedDescription":"Twitch Toolbox 的替代品，Twitch，無廣告。\n最後更新時間: 05-21-2024\n狀態: \u2705"
+            },
+            {
+               "version":"19.4",
+               "date":"2024-05-12",
+               "size":82744617,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TwitchPlus-19.4-0.1.1.ipa",
+               "localizedDescription":"Twitch Toolbox 的替代品，Twitch，無廣告。\n最後更新時間: 05-12-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"LINE-K2ge3-TrollStore-v1.0.5",
+         "bundleIdentifier":"jp.naver.line",
+         "developerName":"m4fn3",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/jp.naver.line.png",
+         "versions":[
+            {
+               "version":"14.6.3",
+               "date":"2024-05-11",
+               "size":127910091,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/LINE-14.6.3+v1.0.5.ipa",
+               "localizedDescription":"(需內部購買授權碼)增強 LINE 功能！顯示已讀用戶、顯示收回訊息、不會顯示已讀、移除廣告..etc\n最後更新時間: 05-11-2024\n狀態: \u2705"
+            },
+            {
+               "version":"13.5.1",
+               "date":"2024-05-11",
+               "size":118652414,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/LINE-13.5.1+v1.0.5.ipa",
+               "localizedDescription":"(需內部購買授權碼)增強 LINE 功能！顯示已讀用戶、顯示收回訊息、不會顯示已讀、移除廣告..etc\n最後更新時間: 05-11-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"EeveeSpotify",
+         "bundleIdentifier":"com.spotify.client",
+         "developerName":"EeveeSpotify IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.spotify.client.png",
+         "versions":[
+            {
+               "version":"8.9.38",
+               "date":"2024-05-10",
+               "size":72660511,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/EeveeSpotify-8.9.38-3.0.ipa",
+               "localizedDescription":"作為最初但現已過時的 Spotilife 調整的繼承者，EeveeSpotify 成為第一個也是唯一一個（目前）具有訪問 Spotify Premium 巨大潛力的Tweak。 注意：我只會託管穩定且在我這邊運行良好的 IPA。 請隨時檢查他們的存儲庫是否有更新。 若要修復小工具，請從 App Store 在 Eevee 上安裝 Spotify，然後繼續透過 Spotify 強制安裝 Eevee。\n最後更新時間: 05-10-2024\n狀態: \u2705 \u2b50 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"FacebookWolf",
+         "bundleIdentifier":"com.facebook.Facebook",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+         "versions":[
+            {
+               "version":"464.0.4",
+               "date":"2024-05-21",
+               "size":147131532,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/FacebookWolf-464.0.0.ipa",
+               "localizedDescription":"隱身查看訊息、停用輸入狀態、隱身查看限動、停用自動播放下一個故事、按讚確認，長按儲存影片和照片，etc。\n最後更新時間: 05-21-2024\n狀態: \u2705 \ud83d\udc4d"
+            },
+            {
+               "version":"463.0.4",
+               "date":"2024-05-10",
+               "size":153007992,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/FacebookWolf-463.0.4.ipa",
+               "localizedDescription":"隱身查看訊息、停用輸入狀態、隱身查看限動、停用自動播放下一個故事、按讚確認，長按儲存影片和照片，etc。\n最後更新時間: 05-10-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"InstaMulti",
+         "bundleIdentifier":"com.burbn.instagram",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+         "versions":[
+            {
+               "version":"330.0.0",
+               "date":"2024-05-08",
+               "size":158759722,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstaMulti-330.0.0.ipa",
+               "localizedDescription":"注入InstaMultiTweak。\n最後更新時間: 05-08-2024\n狀態: \u26a0\ufe0f"
+            }
+         ]
+      },
+      {
+         "name":"InfusePro",
+         "bundleIdentifier":"com.firecore.infuse",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.firecore.infuse.png",
+         "versions":[
+            {
+               "version":"7.7.5",
+               "date":"2024-05-08",
+               "size":43610271,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InfusePro-7.7.5.ipa",
+               "localizedDescription":"由 dayanch96 注入 InfusePlus。 精美的媒體/視訊播放器，已破解為高級版。\n最後更新時間: 05-19-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"ChargeLimiter",
+         "bundleIdentifier":"chaoge.ChargeLimiter",
+         "developerName":"lich4",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/chaoge.ChargeLimiter.png",
+         "versions":[
+            {
+               "version":"1.6",
+               "date":"2024-05-02",
+               "size":2445765,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ChargeLimiter-1.6.ipa",
+               "localizedDescription":"該應用程式的靈感來自 MacOS 版本，它可避免 iPhone/iPad 長時間過度充電，從而損壞電池。 它允許用戶設定最大和最小充電容量以及充電的最高溫度閾值。 配置完成後，守護程序將持續監控電池容量。\n最後更新時間: 05-02-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"InShotPro",
+         "bundleIdentifier":"com.camerasideas.InstaShot",
+         "developerName":"AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn\u2019s tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+         "versions":[
+            {
+               "version":"1.77.1",
+               "date":"2024-04-23",
+               "size":149778320,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InShotPro-1.77.1.ipa",
+               "localizedDescription":"流行的影片/圖像編輯器，已解鎖專業功能\n最後更新時間: 04-23-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"InstaNyxBH",
+         "bundleIdentifier":"com.burbn.instagram",
+         "developerName":"Manpreet Singh @thisismanpreets",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+         "versions":[
+            {
+               "version":"327.1.0",
+               "date":"2024-04-16",
+               "size":148421214,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstaNyxBH-327.1.0-1.2.4.ipa",
+               "localizedDescription":"注入 Nyx 和 BH。\n最後更新時間: 04-16-2024\n狀態: \u26a0\ufe0f"
+            }
+         ]
+      },
+      {
+         "name":"InstaRocketCracked",
+         "bundleIdentifier":"com.burbn.instagram",
+         "developerName":"AppDB / DarkWebUser / DPixel / Manpreet Singh @thisismanpreets / nowesr1 / zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+         "versions":[
+            {
+               "version":"327.1.0",
+               "date":"2024-04-16",
+               "size":146082121,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/InstaRocketCracked-327.1.0-3.8.24.ipa",
+               "localizedDescription":"注入 Rocket Cracked（所有功能均可使用）。 若要啟動 Rocket，點擊底部廣告-> 點擊Upgrade Now-> 點擊Restore Purchases\n最後更新時間: 04-16-2024\n狀態: \u26a0\ufe0f"
+            }
+         ]
+      },
+      {
+         "name":"PhotoshopExpress",
+         "bundleIdentifier":"com.adobe.PSMobile",
+         "developerName":"AppDB / FayezUpdates / iPAWiND / ipalibrary.me",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
+         "versions":[
+            {
+               "version":"24.20.0",
+               "versionDate":"2024-04-10",
+               "size":146044464,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/PhotoshopExpressPhotoEditor-v24.20.0.ipa",
+               "localizedDescription":"Adobe 的 Photoshop Express，已破解所有進階功能。 除了雲端儲存。\n最後更新時間: 04-10-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"TrollInstallerX",
+         "bundleIdentifier":"com.Alfie.TrollInstallerX",
+         "developerName":"alfiecg24",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
+         "versions":[
+            {
+               "version":"1.0.2",
+               "date":"2024-04-09",
+               "size":6888282,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollInstallerX-1.0.2.ipa",
+               "localizedDescription":"適用於 iOS 14.0 至 16.6.1 的 TrollStore 安裝程序\n最後更新時間: 04-09-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"RedditPlus",
+         "bundleIdentifier":"com.reddit.Reddit",
+         "developerName":"AppDB / Ed0.ipa",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
+         "versions":[
+            {
+               "version":"2024.13.0",
+               "date":"2024-04-04",
+               "size":123790920,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/RedditPlus-2024.13.0.ipa",
+               "localizedDescription":"Reddit，注入了 RedditFilter 和 RedditSideloadFix (level3tjg) 和 Riskkit (AppleCraxkhead)\n最後更新時間: 04-04-2024\n狀態: \u2754"
+            }
+         ]
+      },
+      {
+         "name":"BHTikTokPlus",
+         "bundleIdentifier":"com.zhiliaoapp.musically",
+         "developerName":"zxcvbn's tweaked IPAs",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/om.zhiliaoapp.musically.png",
+         "versions":[
+            {
+               "version":"34.7.0",
+               "date":"2024-05-20",
+               "size":209641901,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BHTikTokPlus-v34.7.0.ipa",
+               "localizedDescription":"這可能是 BHTikTokLRD 之前目前可用的最好的 TikTok 增強功能：具有完全改進的用戶界面、增強的穩定性、側載工作等。 注意：「更改區域」功能似乎不起作用。\n最後更新時間:05-20-2024\n狀態: \u26a0\ufe0f \ud83d\udc4d \u2b50"
+            }
+         ]
+      },
+      {
+         "name":"Eros-FE",
+         "bundleIdentifier":"cn.honjow.fehv",
+         "developerName":"3003h",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/cn.honjow.fehv.png",
+         "versions":[
+            {
+               "version":"1.6.1",
+               "date":"2024-04-03",
+               "size":27388308,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Eros-FE_1.6.1+541.ipa",
+               "localizedDescription":"E-Hentai\n最後更新時間: 04-03-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"LightroomPremium",
+         "bundleIdentifier":"com.adobe.lrmobilephone",
+         "developerName":"MaxiTech | IPAs ",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+         "versions":[
+            {
+               "version":"9.3.0",
+               "date":"2024-05-22",
+               "size":178671458,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/Lightroom-v9.3.0.ipa",
+               "localizedDescription":"注入了 Satella。 另一種流行的影片/圖像編輯器。按一下購買，然後按一下“取消。\n最後更新時間: 05-22-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"SpeedTestPremium",
+         "bundleIdentifier":"com.ookla.speedtest",
+         "developerName":"CyPwn IPA Library / Manpreet Singh @thisismanpreets",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.ookla.speedtest.png",
+         "versions":[
+            {
+               "version":"5.3.1",
+               "date":"2024-03-31",
+               "size":59896562,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024SpeedTestPremium-5.3.1.ipa",
+               "localizedDescription":"SpeedTest by Ookla, 具有高級功能\n最後更新時間: 03-31-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"TruecallerPremium",
+         "bundleIdentifier":"com.truesoftware.TrueCallerOther",
+         "developerName":"Ravand Bajlory / iOS Tutorials + App Cracks",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
+         "versions":[
+            {
+               "version":"12.86.5",
+               "date":"2024-03-27",
+               "size":98391105,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TruecallerPremium-12.86.5.ipa",
+               "localizedDescription":"限TrollStore。 黃金會員破解，（需要更多測試）。 教學：先從 App Store 安裝 TrueCaller，然後按照螢幕上提供的所有說明進行操作。 完成此操作後，繼續強制安裝 TrollStore 版本。 （無需卸載原應用）\n最後更新時間: 03-27-2024\n狀態: \u2754 \u2b50"
+            }
+         ]
+      },
+      {
+         "name":"TrollSpeed",
+         "bundleIdentifier":"ch.xxtou.hudapp",
+         "developerName":"Lessica",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
+         "versions":[
+            {
+               "version":"1.11.11",
+               "date":"2024-03-18",
+               "size":162640,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollSpeed-1.11.11.ipa",
+               "localizedDescription":"在狀態列下方顯示上傳和下載速度。 適用於與 TrollStore 相容的所有 iOS 版本。 注意：在 iOS 16 及更高版本上，需要啟動“開發者模式”。\n最後更新時間: 03-18-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"SwiftTop",
+         "bundleIdentifier":"ca.bomberfish.SwiftTop",
+         "developerName":"BomberFish",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/ca.bomberfish.SwiftTop.png",
+         "versions":[
+            {
+               "version":"0.5",
+               "date":"2024-03-11",
+               "size":5959886,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/SwiftTop-0.5.tipa",
+               "localizedDescription":"限TrollStore。利用Swift重寫的檢視進程AppCommander與CoCoaTop的結合體\n最後更新時間: 03-11-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"LocSim",
+         "bundleIdentifier":"com.mika.LocationSimulation",
+         "developerName":"CyPwn IPA Library",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
+         "versions":[
+            {
+               "version":"1.4.1",
+               "versionDate":"2024-03-11",
+               "size":1467771,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/LocSim-1.4.1k.ipa",
+               "localizedDescription":"FakeGPS\n最後更新時間: 03-11-2024\n狀態: \u2705"
+            }
+         ]
+      }, 
+      {
+         "name":"ProcreatePocket",
+         "bundleIdentifier":"au.com.savageinteractive.procreate-pocket",
+         "developerName":"N/A",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/au.com.savageinteractive.procreate-pocket.png",
+         "versions":[
+            {
+               "version":"4.0.10",
+               "versionDate":"2024-03-07",
+               "size":300681781,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/ProcreatePocket-4.0.10.ipa",
+               "localizedDescription":"這個應用程式沒有修改。\n最後更新時間: 03-07-2024\n狀態: \u2705"
+            }
+         ]
+      },      
+      {
+         "name":"Reveil",
+         "bundleIdentifier":"com.82flex.reveil",
+         "developerName":"Lessica",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.reveil.app.png",
+         "versions":[
+            {
+               "version":"2.0",
+               "date":"2024-03-07",
+               "size":1618997,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Reveil-2.0.6.tipa",
+               "localizedDescription":"限TrollStore。先進的安全分析，各種視覺化資訊面板。\n最後更新時間: 03-07-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"DuolingoMax",
+         "bundleIdentifier":"com.duolingo.DuolingoMobile",
+         "developerName":"ArianaMinajj",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
+         "versions":[
+            {
+               "version":"7.9.0",
+               "date":"2024-03-02",
+               "size":112731883,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/DuolingoMax-7.9.0.ipa",
+               "localizedDescription":"全球最受歡迎的教育應用程序，提供一種有趣且免費的方式，透過簡短的互動課程學習 40 多種語言。 透過練習口語、閱讀、聽力和寫作來提高詞彙量和文法技能。\n最後更新時間: 03-02-2024\n狀態: \u2705 \ud83d\udc4d \u2b50"
+            }
+         ]
+      },
+      {
+         "name":"RingtoneMaker",
+         "bundleIdentifier":"com.csj.ling",
+         "developerName":"ArianaMinajj",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.csj.ling.png",
+         "versions":[
+            {
+               "version":"1.9.17",
+               "date":"2024-02-26",
+               "size":15388388,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/RingtoneMaker-1.9.17.ipa",
+               "localizedDescription":"注入 Satella，無廣告，鈴聲製作軟體\n最後更新時間: 02-26-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"Geranium",
+         "bundleIdentifier":"live.cclerc.geranium",
+         "developerName":"c22dev",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
+         "versions":[
+            {
+               "version":"1.1.2",
+               "date":"2024-02-23",
+               "size":6161855,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Geranium-1.1.2.ipa",
+               "localizedDescription":"用作包含 LocSim、Daemon Manager、Cleaner 和 Supervisor for TrollStore 的工具箱。\n最後更新時間: 02-23-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"OTADisabler",
+         "bundleIdentifier":"com.ichitaso.otadisablerts",
+         "developerName":"ichitaso",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.ichitaso.otadisablerts.png",
+         "versions":[
+            {
+               "version":"1.1.0",
+               "date":"2024-02-01",
+               "size":382742,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/OTADisabler-1.1.0.ipa",
+               "localizedDescription":" TrollStore 的 OTADisabler。\n最後更新時間: 02-01-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"ESign",
+         "bundleIdentifier":"p3.xyz.yyyue.esign",
+         "developerName":"ESign",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+         "versions":[
+            {
+               "version":"5.0.2",
+               "date":"2024-01-28",
+               "size":7522792,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ESign-5.0.2.ipa",
+               "localizedDescription":"輕鬆簽。它偶爾也會為您提供免費證書來簽署應用程式。 也可以將 debs 注入您選擇的 IPA 中。\n最後更新時間: 01-28-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"EhPanda",
+         "bundleIdentifier":"app.ehpanda",
+         "developerName":"EhPanda-Team",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/zeng.EhPanda.png",
+         "versions":[
+            {
+               "version":"2.7.4",
+               "date":"2024-01-23",
+               "size":6685295,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/EhPanda-2.7.4.ipa",
+               "localizedDescription":"E-Hentai\n最後更新時間: 01-23-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"TrollCuts",
+         "bundleIdentifier":"com.udevs.TrollCuts",
+         "developerName":"udevsharold",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png",
+         "versions":[
+            {
+               "version":"1.1",
+               "date":"2024-01-23",
+               "size":529664,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollCuts-1.1.ipa",
+               "localizedDescription":"iOS 16.0+ 的捷徑擴展\n最後更新時間: 01-23-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"AppDump2",
+         "bundleIdentifier":"cn.gblw.AppsDump",
+         "developerName":"wh1te4ever",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png",
+         "versions":[
+            {
+               "version":"2.0.6",
+               "date":"2024-01-12",
+               "size":614335,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AppDump2-2.0.6.ipa",
+               "localizedDescription":"砸殼 IPA 檔案。 注意：要啟動解密過程，必須至少開啟一次所需的應用程式。 此外，可能需要 Filza 來定位解密的檔案。\n最後更新時間: 01-12-2024\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"Filza",
+         "bundleIdentifier":"com.tigisoftware.Filza",
+         "developerName":"TigiSoftware / iOS_TrollStore",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.tigisoftware.Filza.png",
+         "versions":[
+            {
+               "version":"4.0",
+               "date":"2024-01-03",
+               "size":13912275,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Filza-4.0.0-NoUrlScheme.ipa",
+               "localizedDescription":"已破解，NoURLScheme 版本。 iOS 檔案系統瀏覽器。\n最後更新時間: 01-03-2024\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"TrollApps",
+         "bundleIdentifier":"org.resonance.store",
+         "developerName":"TrollApps",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/org.resonance.store.png",
+         "versions":[
+            {
+               "version":"2.3b",
+               "date":"2023-12-29",
+               "size":5533915,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollApps-2.3b-Hotfix3.ipa",
+               "localizedDescription":"對於使用 TrollStore 的個人來說，這個新的 TrollApps 可以取代 iOS App Store，提供其前身的更新版本。 它使用戶能夠直接從各種儲存庫下載應用程式並將其安裝到 TrollStore 中。 需要 iOS 14.0> 和最新版本的 TrollStore。 注意：某些應用程式可能仍標記為“更新”，即使它們正在運行最新版本。\n最後更新時間: 12-29-2023\n狀態: \u2705 \ud83d\udc4d"
+            }
+         ]
+      },
+      {
+         "name":"Shadowrocket",
+         "bundleIdentifier":"com.liguangming.Shadowrocket",
+         "developerName":"Qamislo - Apps",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.liguangming.Shadowrocket.png",
+         "versions":[
+            {
+               "version":"2.2.41",
+               "date":"2023-12-19",
+               "size":34343960,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Shadowrocket-2.2.41.ipa",
+               "localizedDescription":"Shadowrocket砸殼。\n最後更新時間: 12-19-2023\n狀態: \u26a0\ufe0f"
+            }
+         ]
+      },
+      {
+         "name":"Cardio",
+         "bundleIdentifier":"com.cisc0freak.cardio",
+         "developerName":"cisc0disco",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.cisc0freak.cardio.png",
+         "versions":[
+            {
+               "version":"1.0",
+               "date":"2023-12-12",
+               "size":122212,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Cardio-1.0.ipa",
+               "localizedDescription":"一個利用 CoreTrust bug 修改 Apple Pay 圖片的應用程式。\n最後更新時間: 12-12-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"CocoaTop",
+         "bundleIdentifier":"ru.domo.cocoatop64",
+         "developerName":"D0m0 / imbazim",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/ru.domo.cocoatop64.png",
+         "versions":[
+            {
+               "version":"1.0",
+               "date":"2023-12-12",
+               "size":333223,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/CocoaTop-1.0.ipa",
+               "localizedDescription":"iOS 上查看進程資訊的工具。\n最後更新時間: 12-12-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"QuantumultX",
+         "bundleIdentifier":"com.crossutility.quantumult-x",
+         "developerName":"iOS Tutorials + App Cracks",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png",
+         "versions":[
+            {
+               "version":"1.4.2",
+               "date":"2023-12-12",
+               "size":16180965,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024QuantumultX-1.4.2.ipa",
+               "localizedDescription":"注意：如果沒有連結到購買時使用的相應 App ID 的收據，則無法使用過濾器； 沒有辦法繞過這個要求。\n最後更新時間: 12-12-2023\n狀態: \u26a0\ufe0f"
+            }
+         ]
+      },
+      {
+         "name":"TrollDecrypt",
+         "bundleIdentifier":"com.fiore.trolldecrypt",
+         "developerName":"donato-fiore",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.fiore.trolldecrypt.png",
+         "versions":[
+            {
+               "version":"1.1",
+               "date":"2023-12-26",
+               "size":691519,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollDecrypt-1.1.ipa",
+               "localizedDescription":"無需最初啟動應用程式即可快速砸殼任何 IPA，並且由於包含歷史記錄功能，因此無需透過 Filza 導航來找到砸殼的檔案！\n最後更新時間: 12-12-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"AppsManager",
+         "bundleIdentifier":"com.tigisoftware.ADManager",
+         "developerName":"TigiSoftware",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png",
+         "versions":[
+            {
+               "version":"1.8.4",
+               "date":"2023-12-01",
+               "size":3073412,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AppsManager-1.8.4.ipa",
+               "localizedDescription":"應用程式管理器，適用於 TrollStore！ 無需越獄即可建立/恢復備份、清除資料等\n最後更新時間: 12-01-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"ImageSearch",
+         "bundleIdentifier":"com.ipopapp.imagesearchfree",
+         "developerName":"DPixel",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.ipopapp.imagesearchfree.png",
+         "versions":[
+            {
+               "version":"7.1",
+               "date":"2023-11-30",
+               "size":11263177,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ImageSearch-7.1.ipa",
+               "localizedDescription":"圖像搜尋應用程序，已破解為專業功能。 點選右上角的Pro，然後點選購買按鈕\n最後更新時間: 11-30-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"FTPManager Pro",
+         "bundleIdentifier":"com.skyjos.ftpmanager",
+         "developerName":"N/A",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.skyjos.ftpmanager.png",
+         "versions":[
+            {
+               "version":"8.3",
+               "date":"2023-07-30",
+               "size":25023076,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/FTPManager_Pro_8.3.ipa",
+               "localizedDescription":"FTPManager Pro 砸殼\n最後更新時間: 07-30-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"RingTonesManager",
+         "bundleIdentifier":"com.netskao.ringtonesmanager",
+         "developerName":"N/A",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.netskao.ringtonesmanager.png",
+         "versions":[
+            {
+               "version":"1.1-4",
+               "date":"2023-05-12",
+               "size":6998429,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/RingTonesManager-1.1-4.tipa",
+               "localizedDescription":"限 TrollStore。 解除 iPhone 鈴聲 30 秒限制，支援一鍵導入系統鈴聲。\n最後更新時間: 05-12-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"StatusMagic",
+         "bundleIdentifier":"com.avangelista.StatusMagic",
+         "developerName":"Avangelista",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png",
+         "versions":[
+            {
+               "version":"1.0.2",
+               "date":"2023-02-08",
+               "size":1218528,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/StatusMagic-1.0.2.ipa",
+               "localizedDescription":"狀態列自訂 - 變更載具文字、麵包屑文字或時鐘文本，或隱藏圖示。 重新啟動持續存在\n最後更新時間: 02-08-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"Anonycord",
+         "bundleIdentifier":"live.cclerc.Anonycord",
+         "developerName":"c22dev",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/live.cclerc.Anonycord.png",
+         "versions":[
+            {
+               "version":"1.2",
+               "date":"2023-01-31",
+               "size":1392905,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/Anonycord-1.2.ipa",
+               "localizedDescription":"後台匿名錄影。 與 SparkDev 的 SneakyCam 類似的功能\n最後更新時間: 01-31-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"TrollTools",
+         "bundleIdentifier":"net.sourceloc.TrollTools",
+         "developerName":"sourcelocation",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
+         "versions":[
+            {
+               "version":"3.0",
+               "date":"2023-01-05",
+               "size":4372418,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollTools-3.0.tipa",
+               "localizedDescription":"Mugunghwa替代品。 如果另一個給您帶來問題，請使用此選項，反之亦然\n最後更新時間: 01-05-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"PostBox",
+         "bundleIdentifier":"com.simplycode.PostBox",
+         "developerName":"PostBoxTeam",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.simplycode.PostBox.png",
+         "versions":[
+            {
+               "version":"0.8.1",
+               "date":"2022-11-15",
+               "size":8499905,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/11-15-2022/PostBox_0.8.1_beta.ipa",
+               "localizedDescription":"可讓您瀏覽/新增儲存庫並下載Tweak以使用所需的套件管理器進行安裝\n最後更新時間: 11-15-2022\n狀態: \u26a0\ufe0f"
+            }
+         ]
+      },
+      {
+         "name":"AppStorePlusPlus",
+         "bundleIdentifier":"com.cokepokes.AppStorePlus",
+         "developerName":"CokePokes",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.cokepokes.AppStorePlus.png",
+         "versions":[
+            {
+               "version":"1.0.3",
+               "date":"2022-11-10",
+               "size":17588239,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/AppStorePlusPlus-1.0.3-2.ipa",
+               "localizedDescription":"CokePokes 的 AppStore++ for TrollStore！ 升級/降級 App Store 應用\n最後更新時間: 01-29-2023\n狀態: \u2705"
+            }
+         ]
+      },
+      {
+         "name":"ModMyIPA",
+         "bundleIdentifier":"com.powen.ModMyIPA",
+         "developerName":"powenn",
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.powen.ModMyIPA.png",
+         "versions":[
+            {
+               "version":"1.0",
+               "date":"2022-11-10",
+               "size":2447058,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/ModMyIPA.ipa",
+               "localizedDescription":"應用程式資訊（名稱、bundleID 等）編輯器，通常在安裝相同應用程式的重複項時使用\n最後更新時間: 10-28-2022\n狀態: \u2705"
+            }
+         ]
+      }
+   ]
+ }
