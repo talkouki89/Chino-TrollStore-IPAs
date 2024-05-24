@@ -305,13 +305,17 @@
       {
          "name":"BeautyPlusPremium",
          "bundleIdentifier":"com.commsource.BeautyPlus",
-         "version":"7.7.103",
-         "versionDate":"2024-05-13",
-         "size":238124043,
-         "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BeautyPlusPremium-7.7.103.ipa",
          "developerName":"Manpreet Singh @thisismanpreeets",
-         "localizedDescription":"另一個注入了 Premium 的 AI 照片編輯器。\n最後更新時間: 05-13-2024\n狀態: \u2705",
-         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png"
+         "iconURL":"https://raw.githubusercontent.com/talkouki89/Chino-TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+         "versions":[
+            {
+               "version":"7.7.103",
+               "date":"2024-05-24",
+               "size":238124043,
+               "downloadURL":"https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-24-2024/BeautyPlusPremium-7.7.103.ipa",
+               "localizedDescription":"另一個注入了 Premium 的 AI 照片編輯器。\n最後更新時間: 05-13-2024\n狀態: \u2705"
+            }
+         ]
       },
       {
          "name":"MeituPlusPlus",
