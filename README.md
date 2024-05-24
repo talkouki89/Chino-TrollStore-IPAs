@@ -2,7 +2,9 @@
 
 ## Chino-TrollStore-IPAs 自用
 請先使用TrollStore安裝[TrollApps](https://github.com/talkouki89/Chino-TrollStore-IPAs/releases/download/05-19-2024/TrollApps-2.3b-Hotfix3.ipa)
+
 再點選下方的Add repo來使用
+
 ⚠️TrollStore記得到Settings開啟URL Scheme Enabled⚠️
 
  <p align="center">
